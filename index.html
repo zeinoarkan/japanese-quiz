@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kana & Kanji Quiz</title>
+<meta name="description" content="Latihan kanji JLPT N5 dan N4 dengan kuis romaji dan arti">
+<meta name="theme-color" content="#0f1117">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kana & Kanji Quiz</h1>
+  <p>Pilih level, pilih karakter, pilih mode tebakan, lalu uji dirimu</p>
+</header>
+
+<!-- LEVEL SELECTOR -->
+<div class="level-panel">
+  <div class="level-title">Level JLPT</div>
+  <div class="level-options">
+    <button class="level-btn" data-level="HIRAGANA">Hiragana</button>
+    <button class="level-btn" data-level="KATAKANA">Katakana</button>
+    <button class="level-btn active" data-level="N5">Kanji N5</button>
+    <button class="level-btn" data-level="N4">Kanji N4</button>
+  </div>
+</div>
+
+<!-- MODE SELECTOR -->
+<div class="mode-panel">
+  <div class="mode-title">Mode Kuis</div>
+  <div class="mode-options">
+    <button class="mode-btn active" id="mode-romaji" data-mode="romaji">Tebak Romaji</button>
+    <button class="mode-btn" id="mode-arti" data-mode="arti">Tebak Arti</button>
+  </div>
+</div>
+
+<!-- CHARACTER SELECTOR -->
+<div class="selector-panel" id="selector-panel">
+  <div class="selector-top">
+    <span class="label">Pilih Karakter</span>
+    <span><button class="global-toggle" id="hard-btn" title="Pilih kanji yang sering kamu salah">Pilih yang sering salah</button> · <button class="global-toggle" id="global-toggle-btn">Pilih Semua</button></span>
+  </div>
+  <div id="groups-wrap"></div>
+  <div class="selector-footer">
+    <span class="sel-info"><span id="sel-count">0</span> karakter dipilih</span>
+    <button class="start-btn" id="start-btn" disabled>Mulai</button>
+  </div>
+</div>
+
+<!-- QUIZ AREA -->
+<div id="quiz-area">
+  <div style="width:100%">
+    <div class="progress-bar-wrap"><div class="progress-bar-fill" id="progress-fill"></div></div>
+    <div class="progress-label" id="progress-label">0 / 0</div>
+  </div>
+  <div class="score-strip">
+    <div class="correct">Benar: <b id="sc-correct">0</b></div>
+    <div class="wrong">Salah: <b id="sc-wrong">0</b></div>
+    <div>Sisa: <b id="sc-rem">0</b></div>
+  </div>
+  <div class="flash-card">
+    <span class="char-display" id="char-display">一</span>
+    <div class="char-hint" id="char-hint">Ketik romaji</div>
+    <div class="answer-row">
+      <input type="text" id="answer-input" placeholder="jawaban" autocomplete="off" spellcheck="false">
+    </div>
+    <div class="feedback" id="feedback" aria-live="polite"></div>
+    <div class="feedback-extra" id="feedback-extra"></div>
+  </div>
+  <div class="quiz-nav">
+    <button id="next-btn">Cek</button>
+    <button id="quit-btn" class="secondary-btn" type="button">Keluar</button>
+  </div>
+</div>
+
+<!-- RESULTS AREA -->
+<div id="results-area">
+  <div class="result-card">
+    <h2>Kuis Selesai!</h2>
+    <div class="big-score" id="final-score">0%</div>
+    <div class="sub" id="final-sub">0 benar dari 0</div>
+    <div class="missed-list" id="missed-wrap" style="display:none">
+      <h3>Tinjau lagi:</h3>
+      <div class="missed-items" id="missed-items"></div>
+    </div>
+    <button class="retry-btn" id="retry-missed-btn" style="display:none">Ulangi yang Salah</button>
+    <button class="retry-btn secondary" id="retry-btn">Menu Utama</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

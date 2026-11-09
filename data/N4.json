@@ -1,0 +1,54 @@
+[
+  {
+    "group": "N4 Kanji - Dasar",
+    "label": "Kanji Tingkat N4 (Bagian 1)",
+    "chars": [
+      {"jp":"会","rom":"kai","arti":"pertemuan / bertemu"},
+      {"jp":"同","rom":"onaji","arti":"sama"},
+      {"jp":"事","rom":"koto","arti":"hal / kejadian"},
+      {"jp":"自","rom":"ji","arti":"diri sendiri"},
+      {"jp":"社","rom":"sha","arti":"perusahaan / kuil"},
+      {"jp":"発","rom":"hatsu","arti":"berangkat / muncul"},
+      {"jp":"者","rom":"sha","arti":"orang (pelaku)"},
+      {"jp":"地","rom":"chi","arti":"tanah / wilayah"},
+      {"jp":"業","rom":"gyou","arti":"usaha / pekerjaan"},
+      {"jp":"方","rom":"kata","arti":"arah / cara"},
+      {"jp":"新","rom":"shin","arti":"baru"},
+      {"jp":"場","rom":"ba","arti":"tempat"},
+      {"jp":"員","rom":"in","arti":"anggota / pegawai"},
+      {"jp":"立","rom":"ta","arti":"berdiri"},
+      {"jp":"開","rom":"hira","arti":"buka"},
+      {"jp":"手","rom":"te","arti":"tangan"},
+      {"jp":"力","rom":"chikara","arti":"kekuatan"},
+      {"jp":"問","rom":"to","arti":"bertanya"},
+      {"jp":"代","rom":"dai","arti":"generasi / mewakili"},
+      {"jp":"明","rom":"mei","arti":"terang / jelas"}
+    ]
+  },
+  {
+    "group": "N4 Kanji - Lanjutan",
+    "label": "Kanji Tingkat N4 (Bagian 2)",
+    "chars": [
+      {"jp":"動","rom":"dou","arti":"bergerak"},
+      {"jp":"京","rom":"kyou","arti":"ibu kota"},
+      {"jp":"目","rom":"me","arti":"mata"},
+      {"jp":"通","rom":"tsuu","arti":"lewat / pergi-pulang"},
+      {"jp":"言","rom":"i","arti":"berkata"},
+      {"jp":"理","rom":"ri","arti":"logika / alasan"},
+      {"jp":"体","rom":"karada","arti":"tubuh"},
+      {"jp":"田","rom":"ta","arti":"sawah"},
+      {"jp":"主","rom":"shu","arti":"utama / pemilik"},
+      {"jp":"題","rom":"dai","arti":"judul / tema"},
+      {"jp":"意","rom":"i","arti":"maksud / makna"},
+      {"jp":"不","rom":"fu","arti":"tidak (negasi)"},
+      {"jp":"作","rom":"saku","arti":"membuat / karya"},
+      {"jp":"用","rom":"you","arti":"guna / pemakaian"},
+      {"jp":"度","rom":"do","arti":"derajat / kali"},
+      {"jp":"強","rom":"tsuyo","arti":"kuat"},
+      {"jp":"公","rom":"kou","arti":"umum / publik"},
+      {"jp":"持","rom":"mo","arti":"membawa / memiliki"},
+      {"jp":"野","rom":"no","arti":"ladang"},
+      {"jp":"以","rom":"i","arti":"dengan / berdasarkan"}
+    ]
+  }
+]
