@@ -128,7 +128,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "人",
-    "rom": "hito jin / nin",
+    "rom": "hito / jin / nin",
     "arti": "orang"
    },
    {
@@ -158,7 +158,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "行",
-    "rom": "iku kou / gyou / i",
+    "rom": "iku / kou / gyou / i",
     "arti": "pergi"
    },
    {
@@ -338,7 +338,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "聞",
-    "rom": "kiku bun / ki",
+    "rom": "kiku / bun / ki",
     "arti": "mendengar"
    },
    {
