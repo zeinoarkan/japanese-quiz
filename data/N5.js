@@ -92,17 +92,17 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "年",
-    "rom": "nen / toshi",
+    "rom": "toshi / nen",
     "arti": "tahun"
    },
    {
     "jp": "時",
-    "rom": "ji / toki",
+    "rom": "toki / ji",
     "arti": "waktu / jam"
    },
    {
     "jp": "月",
-    "rom": "getsu / gatsu / tsuki",
+    "rom": "gatsu / getsu / tsuki",
     "arti": "bulan"
    },
    {
@@ -112,7 +112,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "分",
-    "rom": "fun / bun / bu / wa / wakaru",
+    "rom": "wakaru / fun / bun / bu / wa",
     "arti": "menit / bagian / mengerti"
    }
   ]
@@ -123,17 +123,17 @@ window.KANJI_DATA.N5 = [
   "chars": [
    {
     "jp": "国",
-    "rom": "koku / kuni",
+    "rom": "kuni / koku",
     "arti": "negara"
    },
    {
     "jp": "人",
-    "rom": "jin / nin / hito",
+    "rom": "hito jin / nin",
     "arti": "orang"
    },
    {
     "jp": "大",
-    "rom": "dai / tai / oo / ookii",
+    "rom": "ookii / dai / tai / oo",
     "arti": "besar"
    },
    {
@@ -143,12 +143,12 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "中",
-    "rom": "chuu / naka",
+    "rom": "naka / chuu",
     "arti": "dalam / tengah"
    },
    {
     "jp": "長",
-    "rom": "chou / naga",
+    "rom": "naga / chou",
     "arti": "panjang"
    },
    {
@@ -158,7 +158,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "行",
-    "rom": "kou / gyou / i / iku",
+    "rom": "iku kou / gyou / i",
     "arti": "pergi"
    },
    {
@@ -168,12 +168,12 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "後",
-    "rom": "go / kou / ato / ushiro",
+    "rom": "ushiro / go / kou / ato",
     "arti": "belakang / setelah"
    },
    {
     "jp": "前",
-    "rom": "zen / mae",
+    "rom": "mae / zen",
     "arti": "depan / sebelum"
    },
    {
@@ -218,7 +218,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "高",
-    "rom": "kou / taka",
+    "rom": "taka / kou",
     "arti": "tinggi / mahal"
    },
    {
@@ -238,7 +238,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "来",
-    "rom": "rai / ku / kuru",
+    "rom": "kuru / rai / ku",
     "arti": "datang"
    },
    {
@@ -248,17 +248,17 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "小",
-    "rom": "shou / chii / chiisai / ko",
+    "rom": "chiisai / ko / shou / chii",
     "arti": "kecil"
    },
    {
     "jp": "山",
-    "rom": "san / yama",
+    "rom": "yama / san",
     "arti": "gunung"
    },
    {
     "jp": "話",
-    "rom": "wa / hanashi / hanasu",
+    "rom": "hanashi / hanasu / wa",
     "arti": "bicara"
    },
    {
@@ -278,7 +278,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "書",
-    "rom": "sho / ka / kaku",
+    "rom": "kaku / sho / ka",
     "arti": "menulis"
    },
    {
@@ -293,12 +293,12 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "川",
-    "rom": "sen / kawa",
+    "rom": "kawa / sen",
     "arti": "sungai"
    },
    {
     "jp": "水",
-    "rom": "sui / mizu",
+    "rom": "mizu / sui",
     "arti": "air"
    },
    {
@@ -328,7 +328,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "土",
-    "rom": "do / to / tsuchi",
+    "rom": "tsuchi / do / to",
     "arti": "tanah"
    },
    {
@@ -338,12 +338,12 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "聞",
-    "rom": "bun / ki / kiku",
+    "rom": "kiku bun / ki",
     "arti": "mendengar"
    },
    {
     "jp": "食",
-    "rom": "shoku / ta / taberu",
+    "rom": "taberu / shoku / ta",
     "arti": "makan"
    },
    {
@@ -378,12 +378,12 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "火",
-    "rom": "ka / hi",
+    "rom": "hi / ka",
     "arti": "api"
    },
    {
     "jp": "読",
-    "rom": "doku / yo / yomu",
+    "rom": "yomu / doku / yo",
     "arti": "membaca"
    },
    {
@@ -433,7 +433,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "明",
-    "rom": "mei / aka / akarui",
+    "rom": "akarui / mei / aka",
     "arti": "terang / jelas"
    },
    {
@@ -463,22 +463,22 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "手",
-    "rom": "shu / te",
+    "rom": "te / shu",
     "arti": "tangan"
    },
    {
     "jp": "新",
-    "rom": "shin / atarashii",
+    "rom": "atarashii / shin",
     "arti": "baru"
    },
    {
     "jp": "古",
-    "rom": "ko / furui",
+    "rom": "furui / ko",
     "arti": "lama / tua"
    },
    {
     "jp": "楽",
-    "rom": "gaku / raku / tanoshii",
+    "rom": "tanoshii / gaku / raku",
     "arti": "menyenangkan / musik"
    },
    {
@@ -488,7 +488,7 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "飲",
-    "rom": "in / no / nomu",
+    "rom": "nomu / in / no",
     "arti": "minum"
    },
    {
@@ -503,17 +503,17 @@ window.KANJI_DATA.N5 = [
    },
    {
     "jp": "口",
-    "rom": "kou / kuchi",
+    "rom": "kuchi / kou",
     "arti": "mulut"
    },
    {
     "jp": "耳",
-    "rom": "ji / mimi",
+    "rom": "mimi / ji",
     "arti": "telinga"
    },
    {
     "jp": "目",
-    "rom": "moku / me",
+    "rom": "me / moku",
     "arti": "mata"
    }
   ]
