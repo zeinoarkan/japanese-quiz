@@ -1,0 +1,776 @@
+[
+  {
+    "id": "katakana-001",
+    "kanji": "ア",
+    "kana": "ア",
+    "english": "a",
+    "meanings": [
+      "a"
+    ]
+  },
+  {
+    "id": "katakana-002",
+    "kanji": "イ",
+    "kana": "イ",
+    "english": "i",
+    "meanings": [
+      "i"
+    ]
+  },
+  {
+    "id": "katakana-003",
+    "kanji": "ウ",
+    "kana": "ウ",
+    "english": "u",
+    "meanings": [
+      "u"
+    ]
+  },
+  {
+    "id": "katakana-004",
+    "kanji": "エ",
+    "kana": "エ",
+    "english": "e",
+    "meanings": [
+      "e"
+    ]
+  },
+  {
+    "id": "katakana-005",
+    "kanji": "オ",
+    "kana": "オ",
+    "english": "o",
+    "meanings": [
+      "o"
+    ]
+  },
+  {
+    "id": "katakana-006",
+    "kanji": "カ",
+    "kana": "カ",
+    "english": "ka",
+    "meanings": [
+      "ka"
+    ]
+  },
+  {
+    "id": "katakana-007",
+    "kanji": "キ",
+    "kana": "キ",
+    "english": "ki",
+    "meanings": [
+      "ki"
+    ]
+  },
+  {
+    "id": "katakana-008",
+    "kanji": "ク",
+    "kana": "ク",
+    "english": "ku",
+    "meanings": [
+      "ku"
+    ]
+  },
+  {
+    "id": "katakana-009",
+    "kanji": "ケ",
+    "kana": "ケ",
+    "english": "ke",
+    "meanings": [
+      "ke"
+    ]
+  },
+  {
+    "id": "katakana-010",
+    "kanji": "コ",
+    "kana": "コ",
+    "english": "ko",
+    "meanings": [
+      "ko"
+    ]
+  },
+  {
+    "id": "katakana-011",
+    "kanji": "サ",
+    "kana": "サ",
+    "english": "sa",
+    "meanings": [
+      "sa"
+    ]
+  },
+  {
+    "id": "katakana-012",
+    "kanji": "シ",
+    "kana": "シ",
+    "english": "shi",
+    "meanings": [
+      "shi"
+    ]
+  },
+  {
+    "id": "katakana-013",
+    "kanji": "ス",
+    "kana": "ス",
+    "english": "su",
+    "meanings": [
+      "su"
+    ]
+  },
+  {
+    "id": "katakana-014",
+    "kanji": "セ",
+    "kana": "セ",
+    "english": "se",
+    "meanings": [
+      "se"
+    ]
+  },
+  {
+    "id": "katakana-015",
+    "kanji": "ソ",
+    "kana": "ソ",
+    "english": "so",
+    "meanings": [
+      "so"
+    ]
+  },
+  {
+    "id": "katakana-016",
+    "kanji": "タ",
+    "kana": "タ",
+    "english": "ta",
+    "meanings": [
+      "ta"
+    ]
+  },
+  {
+    "id": "katakana-017",
+    "kanji": "チ",
+    "kana": "チ",
+    "english": "chi",
+    "meanings": [
+      "chi"
+    ]
+  },
+  {
+    "id": "katakana-018",
+    "kanji": "ツ",
+    "kana": "ツ",
+    "english": "tsu",
+    "meanings": [
+      "tsu"
+    ]
+  },
+  {
+    "id": "katakana-019",
+    "kanji": "テ",
+    "kana": "テ",
+    "english": "te",
+    "meanings": [
+      "te"
+    ]
+  },
+  {
+    "id": "katakana-020",
+    "kanji": "ト",
+    "kana": "ト",
+    "english": "to",
+    "meanings": [
+      "to"
+    ]
+  },
+  {
+    "id": "katakana-021",
+    "kanji": "ナ",
+    "kana": "ナ",
+    "english": "na",
+    "meanings": [
+      "na"
+    ]
+  },
+  {
+    "id": "katakana-022",
+    "kanji": "ニ",
+    "kana": "ニ",
+    "english": "ni",
+    "meanings": [
+      "ni"
+    ]
+  },
+  {
+    "id": "katakana-023",
+    "kanji": "ヌ",
+    "kana": "ヌ",
+    "english": "nu",
+    "meanings": [
+      "nu"
+    ]
+  },
+  {
+    "id": "katakana-024",
+    "kanji": "ネ",
+    "kana": "ネ",
+    "english": "ne",
+    "meanings": [
+      "ne"
+    ]
+  },
+  {
+    "id": "katakana-025",
+    "kanji": "ノ",
+    "kana": "ノ",
+    "english": "no",
+    "meanings": [
+      "no"
+    ]
+  },
+  {
+    "id": "katakana-026",
+    "kanji": "ハ",
+    "kana": "ハ",
+    "english": "ha",
+    "meanings": [
+      "ha"
+    ]
+  },
+  {
+    "id": "katakana-027",
+    "kanji": "ヒ",
+    "kana": "ヒ",
+    "english": "hi",
+    "meanings": [
+      "hi"
+    ]
+  },
+  {
+    "id": "katakana-028",
+    "kanji": "フ",
+    "kana": "フ",
+    "english": "fu",
+    "meanings": [
+      "fu"
+    ]
+  },
+  {
+    "id": "katakana-029",
+    "kanji": "ヘ",
+    "kana": "ヘ",
+    "english": "he",
+    "meanings": [
+      "he"
+    ]
+  },
+  {
+    "id": "katakana-030",
+    "kanji": "ホ",
+    "kana": "ホ",
+    "english": "ho",
+    "meanings": [
+      "ho"
+    ]
+  },
+  {
+    "id": "katakana-031",
+    "kanji": "マ",
+    "kana": "マ",
+    "english": "ma",
+    "meanings": [
+      "ma"
+    ]
+  },
+  {
+    "id": "katakana-032",
+    "kanji": "ミ",
+    "kana": "ミ",
+    "english": "mi",
+    "meanings": [
+      "mi"
+    ]
+  },
+  {
+    "id": "katakana-033",
+    "kanji": "ム",
+    "kana": "ム",
+    "english": "mu",
+    "meanings": [
+      "mu"
+    ]
+  },
+  {
+    "id": "katakana-034",
+    "kanji": "メ",
+    "kana": "メ",
+    "english": "me",
+    "meanings": [
+      "me"
+    ]
+  },
+  {
+    "id": "katakana-035",
+    "kanji": "モ",
+    "kana": "モ",
+    "english": "mo",
+    "meanings": [
+      "mo"
+    ]
+  },
+  {
+    "id": "katakana-036",
+    "kanji": "ヤ",
+    "kana": "ヤ",
+    "english": "ya",
+    "meanings": [
+      "ya"
+    ]
+  },
+  {
+    "id": "katakana-037",
+    "kanji": "ユ",
+    "kana": "ユ",
+    "english": "yu",
+    "meanings": [
+      "yu"
+    ]
+  },
+  {
+    "id": "katakana-038",
+    "kanji": "ヨ",
+    "kana": "ヨ",
+    "english": "yo",
+    "meanings": [
+      "yo"
+    ]
+  },
+  {
+    "id": "katakana-039",
+    "kanji": "ラ",
+    "kana": "ラ",
+    "english": "ra",
+    "meanings": [
+      "ra"
+    ]
+  },
+  {
+    "id": "katakana-040",
+    "kanji": "リ",
+    "kana": "リ",
+    "english": "ri",
+    "meanings": [
+      "ri"
+    ]
+  },
+  {
+    "id": "katakana-041",
+    "kanji": "ル",
+    "kana": "ル",
+    "english": "ru",
+    "meanings": [
+      "ru"
+    ]
+  },
+  {
+    "id": "katakana-042",
+    "kanji": "レ",
+    "kana": "レ",
+    "english": "re",
+    "meanings": [
+      "re"
+    ]
+  },
+  {
+    "id": "katakana-043",
+    "kanji": "ロ",
+    "kana": "ロ",
+    "english": "ro",
+    "meanings": [
+      "ro"
+    ]
+  },
+  {
+    "id": "katakana-044",
+    "kanji": "ワ",
+    "kana": "ワ",
+    "english": "wa",
+    "meanings": [
+      "wa"
+    ]
+  },
+  {
+    "id": "katakana-045",
+    "kanji": "ヲ",
+    "kana": "ヲ",
+    "english": "wo (rare)",
+    "meanings": [
+      "wo (rare)"
+    ]
+  },
+  {
+    "id": "katakana-046",
+    "kanji": "ン",
+    "kana": "ン",
+    "english": "n",
+    "meanings": [
+      "n"
+    ]
+  },
+  {
+    "id": "katakana-047",
+    "kanji": "ガ",
+    "kana": "ガ",
+    "english": "ga",
+    "meanings": [
+      "ga"
+    ]
+  },
+  {
+    "id": "katakana-048",
+    "kanji": "ギ",
+    "kana": "ギ",
+    "english": "gi",
+    "meanings": [
+      "gi"
+    ]
+  },
+  {
+    "id": "katakana-049",
+    "kanji": "グ",
+    "kana": "グ",
+    "english": "gu",
+    "meanings": [
+      "gu"
+    ]
+  },
+  {
+    "id": "katakana-050",
+    "kanji": "ゲ",
+    "kana": "ゲ",
+    "english": "ge",
+    "meanings": [
+      "ge"
+    ]
+  },
+  {
+    "id": "katakana-051",
+    "kanji": "ゴ",
+    "kana": "ゴ",
+    "english": "go",
+    "meanings": [
+      "go"
+    ]
+  },
+  {
+    "id": "katakana-052",
+    "kanji": "ザ",
+    "kana": "ザ",
+    "english": "za",
+    "meanings": [
+      "za"
+    ]
+  },
+  {
+    "id": "katakana-053",
+    "kanji": "ジ",
+    "kana": "ジ",
+    "english": "ji",
+    "meanings": [
+      "ji"
+    ]
+  },
+  {
+    "id": "katakana-054",
+    "kanji": "ズ",
+    "kana": "ズ",
+    "english": "zu",
+    "meanings": [
+      "zu"
+    ]
+  },
+  {
+    "id": "katakana-055",
+    "kanji": "ゼ",
+    "kana": "ゼ",
+    "english": "ze",
+    "meanings": [
+      "ze"
+    ]
+  },
+  {
+    "id": "katakana-056",
+    "kanji": "ゾ",
+    "kana": "ゾ",
+    "english": "zo",
+    "meanings": [
+      "zo"
+    ]
+  },
+  {
+    "id": "katakana-057",
+    "kanji": "ダ",
+    "kana": "ダ",
+    "english": "da",
+    "meanings": [
+      "da"
+    ]
+  },
+  {
+    "id": "katakana-058",
+    "kanji": "ヂ",
+    "kana": "ヂ",
+    "english": "ji (rare)",
+    "meanings": [
+      "ji (rare)"
+    ]
+  },
+  {
+    "id": "katakana-059",
+    "kanji": "ヅ",
+    "kana": "ヅ",
+    "english": "zu (rare)",
+    "meanings": [
+      "zu (rare)"
+    ]
+  },
+  {
+    "id": "katakana-060",
+    "kanji": "デ",
+    "kana": "デ",
+    "english": "de",
+    "meanings": [
+      "de"
+    ]
+  },
+  {
+    "id": "katakana-061",
+    "kanji": "ド",
+    "kana": "ド",
+    "english": "do",
+    "meanings": [
+      "do"
+    ]
+  },
+  {
+    "id": "katakana-062",
+    "kanji": "バ",
+    "kana": "バ",
+    "english": "ba",
+    "meanings": [
+      "ba"
+    ]
+  },
+  {
+    "id": "katakana-063",
+    "kanji": "ビ",
+    "kana": "ビ",
+    "english": "bi",
+    "meanings": [
+      "bi"
+    ]
+  },
+  {
+    "id": "katakana-064",
+    "kanji": "ブ",
+    "kana": "ブ",
+    "english": "bu",
+    "meanings": [
+      "bu"
+    ]
+  },
+  {
+    "id": "katakana-065",
+    "kanji": "ベ",
+    "kana": "ベ",
+    "english": "be",
+    "meanings": [
+      "be"
+    ]
+  },
+  {
+    "id": "katakana-066",
+    "kanji": "ボ",
+    "kana": "ボ",
+    "english": "bo",
+    "meanings": [
+      "bo"
+    ]
+  },
+  {
+    "id": "katakana-067",
+    "kanji": "パ",
+    "kana": "パ",
+    "english": "pa",
+    "meanings": [
+      "pa"
+    ]
+  },
+  {
+    "id": "katakana-068",
+    "kanji": "ピ",
+    "kana": "ピ",
+    "english": "pi",
+    "meanings": [
+      "pi"
+    ]
+  },
+  {
+    "id": "katakana-069",
+    "kanji": "プ",
+    "kana": "プ",
+    "english": "pu",
+    "meanings": [
+      "pu"
+    ]
+  },
+  {
+    "id": "katakana-070",
+    "kanji": "ペ",
+    "kana": "ペ",
+    "english": "pe",
+    "meanings": [
+      "pe"
+    ]
+  },
+  {
+    "id": "katakana-071",
+    "kanji": "ポ",
+    "kana": "ポ",
+    "english": "po",
+    "meanings": [
+      "po"
+    ]
+  },
+  {
+    "id": "katakana-072",
+    "kanji": "キャ",
+    "kana": "キャ",
+    "english": "kya",
+    "meanings": [
+      "kya"
+    ]
+  },
+  {
+    "id": "katakana-073",
+    "kanji": "キュ",
+    "kana": "キュ",
+    "english": "kyu",
+    "meanings": [
+      "kyu"
+    ]
+  },
+  {
+    "id": "katakana-074",
+    "kanji": "キョ",
+    "kana": "キョ",
+    "english": "kyo",
+    "meanings": [
+      "kyo"
+    ]
+  },
+  {
+    "id": "katakana-075",
+    "kanji": "シャ",
+    "kana": "シャ",
+    "english": "sha",
+    "meanings": [
+      "sha"
+    ]
+  },
+  {
+    "id": "katakana-076",
+    "kanji": "シュ",
+    "kana": "シュ",
+    "english": "shu",
+    "meanings": [
+      "shu"
+    ]
+  },
+  {
+    "id": "katakana-077",
+    "kanji": "ショ",
+    "kana": "ショ",
+    "english": "sho",
+    "meanings": [
+      "sho"
+    ]
+  },
+  {
+    "id": "katakana-078",
+    "kanji": "チャ",
+    "kana": "チャ",
+    "english": "cha",
+    "meanings": [
+      "cha"
+    ]
+  },
+  {
+    "id": "katakana-079",
+    "kanji": "チュ",
+    "kana": "チュ",
+    "english": "chu",
+    "meanings": [
+      "chu"
+    ]
+  },
+  {
+    "id": "katakana-080",
+    "kanji": "チョ",
+    "kana": "チョ",
+    "english": "cho",
+    "meanings": [
+      "cho"
+    ]
+  },
+  {
+    "id": "katakana-081",
+    "kanji": "ニャ",
+    "kana": "ニャ",
+    "english": "nya",
+    "meanings": [
+      "nya"
+    ]
+  },
+  {
+    "id": "katakana-082",
+    "kanji": "ニュ",
+    "kana": "ニュ",
+    "english": "nyu",
+    "meanings": [
+      "nyu"
+    ]
+  },
+  {
+    "id": "katakana-083",
+    "kanji": "ニョ",
+    "kana": "ニョ",
+    "english": "nyo",
+    "meanings": [
+      "nyo"
+    ]
+  },
+  {
+    "id": "katakana-084",
+    "kanji": "リャ",
+    "kana": "リャ",
+    "english": "rya",
+    "meanings": [
+      "rya"
+    ]
+  },
+  {
+    "id": "katakana-085",
+    "kanji": "リュ",
+    "kana": "リュ",
+    "english": "ryu",
+    "meanings": [
+      "ryu"
+    ]
+  },
+  {
+    "id": "katakana-086",
+    "kanji": "リョ",
+    "kana": "リョ",
+    "english": "ryo",
+    "meanings": [
+      "ryo"
+    ]
+  }
+]

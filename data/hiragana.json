@@ -1,0 +1,776 @@
+[
+  {
+    "id": "hiragana-001",
+    "kanji": "あ",
+    "kana": "あ",
+    "english": "a",
+    "meanings": [
+      "a"
+    ]
+  },
+  {
+    "id": "hiragana-002",
+    "kanji": "い",
+    "kana": "い",
+    "english": "i",
+    "meanings": [
+      "i"
+    ]
+  },
+  {
+    "id": "hiragana-003",
+    "kanji": "う",
+    "kana": "う",
+    "english": "u",
+    "meanings": [
+      "u"
+    ]
+  },
+  {
+    "id": "hiragana-004",
+    "kanji": "え",
+    "kana": "え",
+    "english": "e",
+    "meanings": [
+      "e"
+    ]
+  },
+  {
+    "id": "hiragana-005",
+    "kanji": "お",
+    "kana": "お",
+    "english": "o",
+    "meanings": [
+      "o"
+    ]
+  },
+  {
+    "id": "hiragana-006",
+    "kanji": "か",
+    "kana": "か",
+    "english": "ka",
+    "meanings": [
+      "ka"
+    ]
+  },
+  {
+    "id": "hiragana-007",
+    "kanji": "き",
+    "kana": "き",
+    "english": "ki",
+    "meanings": [
+      "ki"
+    ]
+  },
+  {
+    "id": "hiragana-008",
+    "kanji": "く",
+    "kana": "く",
+    "english": "ku",
+    "meanings": [
+      "ku"
+    ]
+  },
+  {
+    "id": "hiragana-009",
+    "kanji": "け",
+    "kana": "け",
+    "english": "ke",
+    "meanings": [
+      "ke"
+    ]
+  },
+  {
+    "id": "hiragana-010",
+    "kanji": "こ",
+    "kana": "こ",
+    "english": "ko",
+    "meanings": [
+      "ko"
+    ]
+  },
+  {
+    "id": "hiragana-011",
+    "kanji": "さ",
+    "kana": "さ",
+    "english": "sa",
+    "meanings": [
+      "sa"
+    ]
+  },
+  {
+    "id": "hiragana-012",
+    "kanji": "し",
+    "kana": "し",
+    "english": "shi",
+    "meanings": [
+      "shi"
+    ]
+  },
+  {
+    "id": "hiragana-013",
+    "kanji": "す",
+    "kana": "す",
+    "english": "su",
+    "meanings": [
+      "su"
+    ]
+  },
+  {
+    "id": "hiragana-014",
+    "kanji": "せ",
+    "kana": "せ",
+    "english": "se",
+    "meanings": [
+      "se"
+    ]
+  },
+  {
+    "id": "hiragana-015",
+    "kanji": "そ",
+    "kana": "そ",
+    "english": "so",
+    "meanings": [
+      "so"
+    ]
+  },
+  {
+    "id": "hiragana-016",
+    "kanji": "た",
+    "kana": "た",
+    "english": "ta",
+    "meanings": [
+      "ta"
+    ]
+  },
+  {
+    "id": "hiragana-017",
+    "kanji": "ち",
+    "kana": "ち",
+    "english": "chi",
+    "meanings": [
+      "chi"
+    ]
+  },
+  {
+    "id": "hiragana-018",
+    "kanji": "つ",
+    "kana": "つ",
+    "english": "tsu",
+    "meanings": [
+      "tsu"
+    ]
+  },
+  {
+    "id": "hiragana-019",
+    "kanji": "て",
+    "kana": "て",
+    "english": "te",
+    "meanings": [
+      "te"
+    ]
+  },
+  {
+    "id": "hiragana-020",
+    "kanji": "と",
+    "kana": "と",
+    "english": "to",
+    "meanings": [
+      "to"
+    ]
+  },
+  {
+    "id": "hiragana-021",
+    "kanji": "な",
+    "kana": "な",
+    "english": "na",
+    "meanings": [
+      "na"
+    ]
+  },
+  {
+    "id": "hiragana-022",
+    "kanji": "に",
+    "kana": "に",
+    "english": "ni",
+    "meanings": [
+      "ni"
+    ]
+  },
+  {
+    "id": "hiragana-023",
+    "kanji": "ぬ",
+    "kana": "ぬ",
+    "english": "nu",
+    "meanings": [
+      "nu"
+    ]
+  },
+  {
+    "id": "hiragana-024",
+    "kanji": "ね",
+    "kana": "ね",
+    "english": "ne",
+    "meanings": [
+      "ne"
+    ]
+  },
+  {
+    "id": "hiragana-025",
+    "kanji": "の",
+    "kana": "の",
+    "english": "no",
+    "meanings": [
+      "no"
+    ]
+  },
+  {
+    "id": "hiragana-026",
+    "kanji": "は",
+    "kana": "は",
+    "english": "ha",
+    "meanings": [
+      "ha"
+    ]
+  },
+  {
+    "id": "hiragana-027",
+    "kanji": "ひ",
+    "kana": "ひ",
+    "english": "hi",
+    "meanings": [
+      "hi"
+    ]
+  },
+  {
+    "id": "hiragana-028",
+    "kanji": "ふ",
+    "kana": "ふ",
+    "english": "fu",
+    "meanings": [
+      "fu"
+    ]
+  },
+  {
+    "id": "hiragana-029",
+    "kanji": "へ",
+    "kana": "へ",
+    "english": "he",
+    "meanings": [
+      "he"
+    ]
+  },
+  {
+    "id": "hiragana-030",
+    "kanji": "ほ",
+    "kana": "ほ",
+    "english": "ho",
+    "meanings": [
+      "ho"
+    ]
+  },
+  {
+    "id": "hiragana-031",
+    "kanji": "ま",
+    "kana": "ま",
+    "english": "ma",
+    "meanings": [
+      "ma"
+    ]
+  },
+  {
+    "id": "hiragana-032",
+    "kanji": "み",
+    "kana": "み",
+    "english": "mi",
+    "meanings": [
+      "mi"
+    ]
+  },
+  {
+    "id": "hiragana-033",
+    "kanji": "む",
+    "kana": "む",
+    "english": "mu",
+    "meanings": [
+      "mu"
+    ]
+  },
+  {
+    "id": "hiragana-034",
+    "kanji": "め",
+    "kana": "め",
+    "english": "me",
+    "meanings": [
+      "me"
+    ]
+  },
+  {
+    "id": "hiragana-035",
+    "kanji": "も",
+    "kana": "も",
+    "english": "mo",
+    "meanings": [
+      "mo"
+    ]
+  },
+  {
+    "id": "hiragana-036",
+    "kanji": "や",
+    "kana": "や",
+    "english": "ya",
+    "meanings": [
+      "ya"
+    ]
+  },
+  {
+    "id": "hiragana-037",
+    "kanji": "ゆ",
+    "kana": "ゆ",
+    "english": "yu",
+    "meanings": [
+      "yu"
+    ]
+  },
+  {
+    "id": "hiragana-038",
+    "kanji": "よ",
+    "kana": "よ",
+    "english": "yo",
+    "meanings": [
+      "yo"
+    ]
+  },
+  {
+    "id": "hiragana-039",
+    "kanji": "ら",
+    "kana": "ら",
+    "english": "ra",
+    "meanings": [
+      "ra"
+    ]
+  },
+  {
+    "id": "hiragana-040",
+    "kanji": "り",
+    "kana": "り",
+    "english": "ri",
+    "meanings": [
+      "ri"
+    ]
+  },
+  {
+    "id": "hiragana-041",
+    "kanji": "る",
+    "kana": "る",
+    "english": "ru",
+    "meanings": [
+      "ru"
+    ]
+  },
+  {
+    "id": "hiragana-042",
+    "kanji": "れ",
+    "kana": "れ",
+    "english": "re",
+    "meanings": [
+      "re"
+    ]
+  },
+  {
+    "id": "hiragana-043",
+    "kanji": "ろ",
+    "kana": "ろ",
+    "english": "ro",
+    "meanings": [
+      "ro"
+    ]
+  },
+  {
+    "id": "hiragana-044",
+    "kanji": "わ",
+    "kana": "わ",
+    "english": "wa",
+    "meanings": [
+      "wa"
+    ]
+  },
+  {
+    "id": "hiragana-045",
+    "kanji": "を",
+    "kana": "を",
+    "english": "wo (object particle)",
+    "meanings": [
+      "wo (object particle)"
+    ]
+  },
+  {
+    "id": "hiragana-046",
+    "kanji": "ん",
+    "kana": "ん",
+    "english": "n",
+    "meanings": [
+      "n"
+    ]
+  },
+  {
+    "id": "hiragana-047",
+    "kanji": "が",
+    "kana": "が",
+    "english": "ga",
+    "meanings": [
+      "ga"
+    ]
+  },
+  {
+    "id": "hiragana-048",
+    "kanji": "ぎ",
+    "kana": "ぎ",
+    "english": "gi",
+    "meanings": [
+      "gi"
+    ]
+  },
+  {
+    "id": "hiragana-049",
+    "kanji": "ぐ",
+    "kana": "ぐ",
+    "english": "gu",
+    "meanings": [
+      "gu"
+    ]
+  },
+  {
+    "id": "hiragana-050",
+    "kanji": "げ",
+    "kana": "げ",
+    "english": "ge",
+    "meanings": [
+      "ge"
+    ]
+  },
+  {
+    "id": "hiragana-051",
+    "kanji": "ご",
+    "kana": "ご",
+    "english": "go",
+    "meanings": [
+      "go"
+    ]
+  },
+  {
+    "id": "hiragana-052",
+    "kanji": "ざ",
+    "kana": "ざ",
+    "english": "za",
+    "meanings": [
+      "za"
+    ]
+  },
+  {
+    "id": "hiragana-053",
+    "kanji": "じ",
+    "kana": "じ",
+    "english": "ji",
+    "meanings": [
+      "ji"
+    ]
+  },
+  {
+    "id": "hiragana-054",
+    "kanji": "ず",
+    "kana": "ず",
+    "english": "zu",
+    "meanings": [
+      "zu"
+    ]
+  },
+  {
+    "id": "hiragana-055",
+    "kanji": "ぜ",
+    "kana": "ぜ",
+    "english": "ze",
+    "meanings": [
+      "ze"
+    ]
+  },
+  {
+    "id": "hiragana-056",
+    "kanji": "ぞ",
+    "kana": "ぞ",
+    "english": "zo",
+    "meanings": [
+      "zo"
+    ]
+  },
+  {
+    "id": "hiragana-057",
+    "kanji": "だ",
+    "kana": "だ",
+    "english": "da",
+    "meanings": [
+      "da"
+    ]
+  },
+  {
+    "id": "hiragana-058",
+    "kanji": "ぢ",
+    "kana": "ぢ",
+    "english": "ji (rare)",
+    "meanings": [
+      "ji (rare)"
+    ]
+  },
+  {
+    "id": "hiragana-059",
+    "kanji": "づ",
+    "kana": "づ",
+    "english": "zu (rare)",
+    "meanings": [
+      "zu (rare)"
+    ]
+  },
+  {
+    "id": "hiragana-060",
+    "kanji": "で",
+    "kana": "で",
+    "english": "de",
+    "meanings": [
+      "de"
+    ]
+  },
+  {
+    "id": "hiragana-061",
+    "kanji": "ど",
+    "kana": "ど",
+    "english": "do",
+    "meanings": [
+      "do"
+    ]
+  },
+  {
+    "id": "hiragana-062",
+    "kanji": "ば",
+    "kana": "ば",
+    "english": "ba",
+    "meanings": [
+      "ba"
+    ]
+  },
+  {
+    "id": "hiragana-063",
+    "kanji": "び",
+    "kana": "び",
+    "english": "bi",
+    "meanings": [
+      "bi"
+    ]
+  },
+  {
+    "id": "hiragana-064",
+    "kanji": "ぶ",
+    "kana": "ぶ",
+    "english": "bu",
+    "meanings": [
+      "bu"
+    ]
+  },
+  {
+    "id": "hiragana-065",
+    "kanji": "べ",
+    "kana": "べ",
+    "english": "be",
+    "meanings": [
+      "be"
+    ]
+  },
+  {
+    "id": "hiragana-066",
+    "kanji": "ぼ",
+    "kana": "ぼ",
+    "english": "bo",
+    "meanings": [
+      "bo"
+    ]
+  },
+  {
+    "id": "hiragana-067",
+    "kanji": "ぱ",
+    "kana": "ぱ",
+    "english": "pa",
+    "meanings": [
+      "pa"
+    ]
+  },
+  {
+    "id": "hiragana-068",
+    "kanji": "ぴ",
+    "kana": "ぴ",
+    "english": "pi",
+    "meanings": [
+      "pi"
+    ]
+  },
+  {
+    "id": "hiragana-069",
+    "kanji": "ぷ",
+    "kana": "ぷ",
+    "english": "pu",
+    "meanings": [
+      "pu"
+    ]
+  },
+  {
+    "id": "hiragana-070",
+    "kanji": "ぺ",
+    "kana": "ぺ",
+    "english": "pe",
+    "meanings": [
+      "pe"
+    ]
+  },
+  {
+    "id": "hiragana-071",
+    "kanji": "ぽ",
+    "kana": "ぽ",
+    "english": "po",
+    "meanings": [
+      "po"
+    ]
+  },
+  {
+    "id": "hiragana-072",
+    "kanji": "きゃ",
+    "kana": "きゃ",
+    "english": "kya",
+    "meanings": [
+      "kya"
+    ]
+  },
+  {
+    "id": "hiragana-073",
+    "kanji": "きゅ",
+    "kana": "きゅ",
+    "english": "kyu",
+    "meanings": [
+      "kyu"
+    ]
+  },
+  {
+    "id": "hiragana-074",
+    "kanji": "きょ",
+    "kana": "きょ",
+    "english": "kyo",
+    "meanings": [
+      "kyo"
+    ]
+  },
+  {
+    "id": "hiragana-075",
+    "kanji": "しゃ",
+    "kana": "しゃ",
+    "english": "sha",
+    "meanings": [
+      "sha"
+    ]
+  },
+  {
+    "id": "hiragana-076",
+    "kanji": "しゅ",
+    "kana": "しゅ",
+    "english": "shu",
+    "meanings": [
+      "shu"
+    ]
+  },
+  {
+    "id": "hiragana-077",
+    "kanji": "しょ",
+    "kana": "しょ",
+    "english": "sho",
+    "meanings": [
+      "sho"
+    ]
+  },
+  {
+    "id": "hiragana-078",
+    "kanji": "ちゃ",
+    "kana": "ちゃ",
+    "english": "cha",
+    "meanings": [
+      "cha"
+    ]
+  },
+  {
+    "id": "hiragana-079",
+    "kanji": "ちゅ",
+    "kana": "ちゅ",
+    "english": "chu",
+    "meanings": [
+      "chu"
+    ]
+  },
+  {
+    "id": "hiragana-080",
+    "kanji": "ちょ",
+    "kana": "ちょ",
+    "english": "cho",
+    "meanings": [
+      "cho"
+    ]
+  },
+  {
+    "id": "hiragana-081",
+    "kanji": "にゃ",
+    "kana": "にゃ",
+    "english": "nya",
+    "meanings": [
+      "nya"
+    ]
+  },
+  {
+    "id": "hiragana-082",
+    "kanji": "にゅ",
+    "kana": "にゅ",
+    "english": "nyu",
+    "meanings": [
+      "nyu"
+    ]
+  },
+  {
+    "id": "hiragana-083",
+    "kanji": "にょ",
+    "kana": "にょ",
+    "english": "nyo",
+    "meanings": [
+      "nyo"
+    ]
+  },
+  {
+    "id": "hiragana-084",
+    "kanji": "りゃ",
+    "kana": "りゃ",
+    "english": "rya",
+    "meanings": [
+      "rya"
+    ]
+  },
+  {
+    "id": "hiragana-085",
+    "kanji": "りゅ",
+    "kana": "りゅ",
+    "english": "ryu",
+    "meanings": [
+      "ryu"
+    ]
+  },
+  {
+    "id": "hiragana-086",
+    "kanji": "りょ",
+    "kana": "りょ",
+    "english": "ryo",
+    "meanings": [
+      "ryo"
+    ]
+  }
+]

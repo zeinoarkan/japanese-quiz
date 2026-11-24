@@ -1,54 +1,789 @@
 [
   {
-    "group": "N4 Kanji - Dasar",
-    "label": "Kanji Tingkat N4 (Bagian 1)",
-    "chars": [
-      {"jp":"会","rom":"kai","arti":"pertemuan / bertemu"},
-      {"jp":"同","rom":"onaji","arti":"sama"},
-      {"jp":"事","rom":"koto","arti":"hal / kejadian"},
-      {"jp":"自","rom":"ji","arti":"diri sendiri"},
-      {"jp":"社","rom":"sha","arti":"perusahaan / kuil"},
-      {"jp":"発","rom":"hatsu","arti":"berangkat / muncul"},
-      {"jp":"者","rom":"sha","arti":"orang (pelaku)"},
-      {"jp":"地","rom":"chi","arti":"tanah / wilayah"},
-      {"jp":"業","rom":"gyou","arti":"usaha / pekerjaan"},
-      {"jp":"方","rom":"kata","arti":"arah / cara"},
-      {"jp":"新","rom":"shin","arti":"baru"},
-      {"jp":"場","rom":"ba","arti":"tempat"},
-      {"jp":"員","rom":"in","arti":"anggota / pegawai"},
-      {"jp":"立","rom":"ta","arti":"berdiri"},
-      {"jp":"開","rom":"hira","arti":"buka"},
-      {"jp":"手","rom":"te","arti":"tangan"},
-      {"jp":"力","rom":"chikara","arti":"kekuatan"},
-      {"jp":"問","rom":"to","arti":"bertanya"},
-      {"jp":"代","rom":"dai","arti":"generasi / mewakili"},
-      {"jp":"明","rom":"mei","arti":"terang / jelas"}
+    "id": "kanji-n4-001",
+    "kanji": "思",
+    "kana": "おもう",
+    "english": "to think",
+    "meanings": [
+      "to think"
     ]
   },
   {
-    "group": "N4 Kanji - Lanjutan",
-    "label": "Kanji Tingkat N4 (Bagian 2)",
-    "chars": [
-      {"jp":"動","rom":"dou","arti":"bergerak"},
-      {"jp":"京","rom":"kyou","arti":"ibu kota"},
-      {"jp":"目","rom":"me","arti":"mata"},
-      {"jp":"通","rom":"tsuu","arti":"lewat / pergi-pulang"},
-      {"jp":"言","rom":"i","arti":"berkata"},
-      {"jp":"理","rom":"ri","arti":"logika / alasan"},
-      {"jp":"体","rom":"karada","arti":"tubuh"},
-      {"jp":"田","rom":"ta","arti":"sawah"},
-      {"jp":"主","rom":"shu","arti":"utama / pemilik"},
-      {"jp":"題","rom":"dai","arti":"judul / tema"},
-      {"jp":"意","rom":"i","arti":"maksud / makna"},
-      {"jp":"不","rom":"fu","arti":"tidak (negasi)"},
-      {"jp":"作","rom":"saku","arti":"membuat / karya"},
-      {"jp":"用","rom":"you","arti":"guna / pemakaian"},
-      {"jp":"度","rom":"do","arti":"derajat / kali"},
-      {"jp":"強","rom":"tsuyo","arti":"kuat"},
-      {"jp":"公","rom":"kou","arti":"umum / publik"},
-      {"jp":"持","rom":"mo","arti":"membawa / memiliki"},
-      {"jp":"野","rom":"no","arti":"ladang"},
-      {"jp":"以","rom":"i","arti":"dengan / berdasarkan"}
+    "id": "kanji-n4-002",
+    "kanji": "知",
+    "kana": "しる",
+    "english": "to know",
+    "meanings": [
+      "to know"
+    ]
+  },
+  {
+    "id": "kanji-n4-003",
+    "kanji": "考",
+    "kana": "かんがえる",
+    "english": "to consider",
+    "meanings": [
+      "to consider"
+    ]
+  },
+  {
+    "id": "kanji-n4-004",
+    "kanji": "作",
+    "kana": "つくる",
+    "english": "to make",
+    "meanings": [
+      "to make"
+    ]
+  },
+  {
+    "id": "kanji-n4-005",
+    "kanji": "使",
+    "kana": "つかう",
+    "english": "to use",
+    "meanings": [
+      "to use"
+    ]
+  },
+  {
+    "id": "kanji-n4-006",
+    "kanji": "持",
+    "kana": "もつ",
+    "english": "to hold, to have",
+    "meanings": [
+      "to hold",
+      "to have"
+    ]
+  },
+  {
+    "id": "kanji-n4-007",
+    "kanji": "待",
+    "kana": "まつ",
+    "english": "to wait",
+    "meanings": [
+      "to wait"
+    ]
+  },
+  {
+    "id": "kanji-n4-008",
+    "kanji": "送",
+    "kana": "おくる",
+    "english": "to send",
+    "meanings": [
+      "to send"
+    ]
+  },
+  {
+    "id": "kanji-n4-009",
+    "kanji": "受",
+    "kana": "うける",
+    "english": "to receive",
+    "meanings": [
+      "to receive"
+    ]
+  },
+  {
+    "id": "kanji-n4-010",
+    "kanji": "始",
+    "kana": "はじめる",
+    "english": "to begin",
+    "meanings": [
+      "to begin"
+    ]
+  },
+  {
+    "id": "kanji-n4-011",
+    "kanji": "終",
+    "kana": "おわる",
+    "english": "to finish",
+    "meanings": [
+      "to finish"
+    ]
+  },
+  {
+    "id": "kanji-n4-012",
+    "kanji": "開",
+    "kana": "あける",
+    "english": "to open",
+    "meanings": [
+      "to open"
+    ]
+  },
+  {
+    "id": "kanji-n4-013",
+    "kanji": "閉",
+    "kana": "しめる",
+    "english": "to close",
+    "meanings": [
+      "to close"
+    ]
+  },
+  {
+    "id": "kanji-n4-014",
+    "kanji": "建",
+    "kana": "たてる",
+    "english": "to build",
+    "meanings": [
+      "to build"
+    ]
+  },
+  {
+    "id": "kanji-n4-015",
+    "kanji": "住",
+    "kana": "すむ",
+    "english": "to live, to reside",
+    "meanings": [
+      "to live",
+      "to reside"
+    ]
+  },
+  {
+    "id": "kanji-n4-016",
+    "kanji": "働",
+    "kana": "はたらく",
+    "english": "to work",
+    "meanings": [
+      "to work"
+    ]
+  },
+  {
+    "id": "kanji-n4-017",
+    "kanji": "教",
+    "kana": "おしえる",
+    "english": "to teach",
+    "meanings": [
+      "to teach"
+    ]
+  },
+  {
+    "id": "kanji-n4-018",
+    "kanji": "習",
+    "kana": "ならう",
+    "english": "to learn",
+    "meanings": [
+      "to learn"
+    ]
+  },
+  {
+    "id": "kanji-n4-019",
+    "kanji": "試",
+    "kana": "ためす",
+    "english": "to try, to test",
+    "meanings": [
+      "to try",
+      "to test"
+    ]
+  },
+  {
+    "id": "kanji-n4-020",
+    "kanji": "験",
+    "kana": "けん",
+    "english": "test, verification",
+    "meanings": [
+      "test",
+      "verification"
+    ]
+  },
+  {
+    "id": "kanji-n4-021",
+    "kanji": "問",
+    "kana": "とい",
+    "english": "question",
+    "meanings": [
+      "question"
+    ]
+  },
+  {
+    "id": "kanji-n4-022",
+    "kanji": "答",
+    "kana": "こたえ",
+    "english": "answer",
+    "meanings": [
+      "answer"
+    ]
+  },
+  {
+    "id": "kanji-n4-023",
+    "kanji": "題",
+    "kana": "だい",
+    "english": "topic, title",
+    "meanings": [
+      "topic",
+      "title"
+    ]
+  },
+  {
+    "id": "kanji-n4-024",
+    "kanji": "集",
+    "kana": "あつめる",
+    "english": "to collect",
+    "meanings": [
+      "to collect"
+    ]
+  },
+  {
+    "id": "kanji-n4-025",
+    "kanji": "運",
+    "kana": "はこぶ",
+    "english": "to carry",
+    "meanings": [
+      "to carry"
+    ]
+  },
+  {
+    "id": "kanji-n4-026",
+    "kanji": "動",
+    "kana": "うごく",
+    "english": "to move",
+    "meanings": [
+      "to move"
+    ]
+  },
+  {
+    "id": "kanji-n4-027",
+    "kanji": "起",
+    "kana": "おきる",
+    "english": "to get up",
+    "meanings": [
+      "to get up"
+    ]
+  },
+  {
+    "id": "kanji-n4-028",
+    "kanji": "止",
+    "kana": "とまる",
+    "english": "to stop",
+    "meanings": [
+      "to stop"
+    ]
+  },
+  {
+    "id": "kanji-n4-029",
+    "kanji": "歩",
+    "kana": "あるく",
+    "english": "to walk",
+    "meanings": [
+      "to walk"
+    ]
+  },
+  {
+    "id": "kanji-n4-030",
+    "kanji": "走",
+    "kana": "はしる",
+    "english": "to run",
+    "meanings": [
+      "to run"
+    ]
+  },
+  {
+    "id": "kanji-n4-031",
+    "kanji": "通",
+    "kana": "とおる",
+    "english": "to pass through",
+    "meanings": [
+      "to pass through"
+    ]
+  },
+  {
+    "id": "kanji-n4-032",
+    "kanji": "近",
+    "kana": "ちかい",
+    "english": "near",
+    "meanings": [
+      "near"
+    ]
+  },
+  {
+    "id": "kanji-n4-033",
+    "kanji": "遠",
+    "kana": "とおい",
+    "english": "far",
+    "meanings": [
+      "far"
+    ]
+  },
+  {
+    "id": "kanji-n4-034",
+    "kanji": "広",
+    "kana": "ひろい",
+    "english": "wide",
+    "meanings": [
+      "wide"
+    ]
+  },
+  {
+    "id": "kanji-n4-035",
+    "kanji": "狭",
+    "kana": "せまい",
+    "english": "narrow",
+    "meanings": [
+      "narrow"
+    ]
+  },
+  {
+    "id": "kanji-n4-036",
+    "kanji": "強",
+    "kana": "つよい",
+    "english": "strong",
+    "meanings": [
+      "strong"
+    ]
+  },
+  {
+    "id": "kanji-n4-037",
+    "kanji": "弱",
+    "kana": "よわい",
+    "english": "weak",
+    "meanings": [
+      "weak"
+    ]
+  },
+  {
+    "id": "kanji-n4-038",
+    "kanji": "明",
+    "kana": "あかるい",
+    "english": "bright",
+    "meanings": [
+      "bright"
+    ]
+  },
+  {
+    "id": "kanji-n4-039",
+    "kanji": "暗",
+    "kana": "くらい",
+    "english": "dark",
+    "meanings": [
+      "dark"
+    ]
+  },
+  {
+    "id": "kanji-n4-040",
+    "kanji": "重",
+    "kana": "おもい",
+    "english": "heavy",
+    "meanings": [
+      "heavy"
+    ]
+  },
+  {
+    "id": "kanji-n4-041",
+    "kanji": "軽",
+    "kana": "かるい",
+    "english": "light in weight",
+    "meanings": [
+      "light in weight"
+    ]
+  },
+  {
+    "id": "kanji-n4-042",
+    "kanji": "暑",
+    "kana": "あつい",
+    "english": "hot weather",
+    "meanings": [
+      "hot weather"
+    ]
+  },
+  {
+    "id": "kanji-n4-043",
+    "kanji": "寒",
+    "kana": "さむい",
+    "english": "cold weather",
+    "meanings": [
+      "cold weather"
+    ]
+  },
+  {
+    "id": "kanji-n4-044",
+    "kanji": "冷",
+    "kana": "つめたい",
+    "english": "cold to the touch",
+    "meanings": [
+      "cold to the touch"
+    ]
+  },
+  {
+    "id": "kanji-n4-045",
+    "kanji": "熱",
+    "kana": "あつい",
+    "english": "hot, fever",
+    "meanings": [
+      "hot",
+      "fever"
+    ]
+  },
+  {
+    "id": "kanji-n4-046",
+    "kanji": "楽",
+    "kana": "たのしい",
+    "english": "fun, enjoyable",
+    "meanings": [
+      "fun",
+      "enjoyable"
+    ]
+  },
+  {
+    "id": "kanji-n4-047",
+    "kanji": "苦",
+    "kana": "くるしい",
+    "english": "painful, difficult",
+    "meanings": [
+      "painful",
+      "difficult"
+    ]
+  },
+  {
+    "id": "kanji-n4-048",
+    "kanji": "好",
+    "kana": "すき",
+    "english": "liked, favorite",
+    "meanings": [
+      "liked",
+      "favorite"
+    ]
+  },
+  {
+    "id": "kanji-n4-049",
+    "kanji": "悪",
+    "kana": "わるい",
+    "english": "bad",
+    "meanings": [
+      "bad"
+    ]
+  },
+  {
+    "id": "kanji-n4-050",
+    "kanji": "正",
+    "kana": "ただしい",
+    "english": "correct",
+    "meanings": [
+      "correct"
+    ]
+  },
+  {
+    "id": "kanji-n4-051",
+    "kanji": "同",
+    "kana": "おなじ",
+    "english": "same",
+    "meanings": [
+      "same"
+    ]
+  },
+  {
+    "id": "kanji-n4-052",
+    "kanji": "別",
+    "kana": "べつ",
+    "english": "different, separate",
+    "meanings": [
+      "different",
+      "separate"
+    ]
+  },
+  {
+    "id": "kanji-n4-053",
+    "kanji": "特",
+    "kana": "とく",
+    "english": "special",
+    "meanings": [
+      "special"
+    ]
+  },
+  {
+    "id": "kanji-n4-054",
+    "kanji": "急",
+    "kana": "いそぐ",
+    "english": "to hurry",
+    "meanings": [
+      "to hurry"
+    ]
+  },
+  {
+    "id": "kanji-n4-055",
+    "kanji": "速",
+    "kana": "はやい",
+    "english": "fast",
+    "meanings": [
+      "fast"
+    ]
+  },
+  {
+    "id": "kanji-n4-056",
+    "kanji": "遅",
+    "kana": "おそい",
+    "english": "slow, late",
+    "meanings": [
+      "slow",
+      "late"
+    ]
+  },
+  {
+    "id": "kanji-n4-057",
+    "kanji": "親",
+    "kana": "おや",
+    "english": "parent",
+    "meanings": [
+      "parent"
+    ]
+  },
+  {
+    "id": "kanji-n4-058",
+    "kanji": "族",
+    "kana": "ぞく",
+    "english": "family, group",
+    "meanings": [
+      "family",
+      "group"
+    ]
+  },
+  {
+    "id": "kanji-n4-059",
+    "kanji": "兄",
+    "kana": "あに",
+    "english": "older brother",
+    "meanings": [
+      "older brother"
+    ]
+  },
+  {
+    "id": "kanji-n4-060",
+    "kanji": "姉",
+    "kana": "あね",
+    "english": "older sister",
+    "meanings": [
+      "older sister"
+    ]
+  },
+  {
+    "id": "kanji-n4-061",
+    "kanji": "弟",
+    "kana": "おとうと",
+    "english": "younger brother",
+    "meanings": [
+      "younger brother"
+    ]
+  },
+  {
+    "id": "kanji-n4-062",
+    "kanji": "妹",
+    "kana": "いもうと",
+    "english": "younger sister",
+    "meanings": [
+      "younger sister"
+    ]
+  },
+  {
+    "id": "kanji-n4-063",
+    "kanji": "世",
+    "kana": "よ",
+    "english": "world, generation",
+    "meanings": [
+      "world",
+      "generation"
+    ]
+  },
+  {
+    "id": "kanji-n4-064",
+    "kanji": "界",
+    "kana": "かい",
+    "english": "world, boundary",
+    "meanings": [
+      "world",
+      "boundary"
+    ]
+  },
+  {
+    "id": "kanji-n4-065",
+    "kanji": "地",
+    "kana": "ち",
+    "english": "earth, ground",
+    "meanings": [
+      "earth",
+      "ground"
+    ]
+  },
+  {
+    "id": "kanji-n4-066",
+    "kanji": "図",
+    "kana": "ず",
+    "english": "diagram, map",
+    "meanings": [
+      "diagram",
+      "map"
+    ]
+  },
+  {
+    "id": "kanji-n4-067",
+    "kanji": "料",
+    "kana": "りょう",
+    "english": "fee, material",
+    "meanings": [
+      "fee",
+      "material"
+    ]
+  },
+  {
+    "id": "kanji-n4-068",
+    "kanji": "理",
+    "kana": "り",
+    "english": "reason, logic",
+    "meanings": [
+      "reason",
+      "logic"
+    ]
+  },
+  {
+    "id": "kanji-n4-069",
+    "kanji": "旅",
+    "kana": "たび",
+    "english": "journey",
+    "meanings": [
+      "journey"
+    ]
+  },
+  {
+    "id": "kanji-n4-070",
+    "kanji": "館",
+    "kana": "かん",
+    "english": "building, hall",
+    "meanings": [
+      "building",
+      "hall"
+    ]
+  },
+  {
+    "id": "kanji-n4-071",
+    "kanji": "病",
+    "kana": "びょう",
+    "english": "illness",
+    "meanings": [
+      "illness"
+    ]
+  },
+  {
+    "id": "kanji-n4-072",
+    "kanji": "院",
+    "kana": "いん",
+    "english": "institution, hospital",
+    "meanings": [
+      "institution",
+      "hospital"
+    ]
+  },
+  {
+    "id": "kanji-n4-073",
+    "kanji": "薬",
+    "kana": "くすり",
+    "english": "medicine",
+    "meanings": [
+      "medicine"
+    ]
+  },
+  {
+    "id": "kanji-n4-074",
+    "kanji": "紙",
+    "kana": "かみ",
+    "english": "paper",
+    "meanings": [
+      "paper"
+    ]
+  },
+  {
+    "id": "kanji-n4-075",
+    "kanji": "音",
+    "kana": "おと",
+    "english": "sound",
+    "meanings": [
+      "sound"
+    ]
+  },
+  {
+    "id": "kanji-n4-076",
+    "kanji": "色",
+    "kana": "いろ",
+    "english": "color",
+    "meanings": [
+      "color"
+    ]
+  },
+  {
+    "id": "kanji-n4-077",
+    "kanji": "形",
+    "kana": "かたち",
+    "english": "shape",
+    "meanings": [
+      "shape"
+    ]
+  },
+  {
+    "id": "kanji-n4-078",
+    "kanji": "味",
+    "kana": "あじ",
+    "english": "taste",
+    "meanings": [
+      "taste"
+    ]
+  },
+  {
+    "id": "kanji-n4-079",
+    "kanji": "心",
+    "kana": "こころ",
+    "english": "heart, mind",
+    "meanings": [
+      "heart",
+      "mind"
+    ]
+  },
+  {
+    "id": "kanji-n4-080",
+    "kanji": "体",
+    "kana": "からだ",
+    "english": "body",
+    "meanings": [
+      "body"
+    ]
+  },
+  {
+    "id": "kanji-n4-081",
+    "kanji": "顔",
+    "kana": "かお",
+    "english": "face",
+    "meanings": [
+      "face"
+    ]
+  },
+  {
+    "id": "kanji-n4-082",
+    "kanji": "頭",
+    "kana": "あたま",
+    "english": "head",
+    "meanings": [
+      "head"
+    ]
+  },
+  {
+    "id": "kanji-n4-083",
+    "kanji": "首",
+    "kana": "くび",
+    "english": "neck",
+    "meanings": [
+      "neck"
+    ]
+  },
+  {
+    "id": "kanji-n4-084",
+    "kanji": "手",
+    "kana": "て",
+    "english": "hand",
+    "meanings": [
+      "hand"
+    ]
+  },
+  {
+    "id": "kanji-n4-085",
+    "kanji": "足",
+    "kana": "あし",
+    "english": "foot, leg",
+    "meanings": [
+      "foot",
+      "leg"
     ]
   }
 ]

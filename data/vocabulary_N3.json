@@ -1,0 +1,891 @@
+[
+  {
+    "id": "vocab-n3-001",
+    "kanji": "影響",
+    "kana": "えいきょう",
+    "english": "influence, effect",
+    "meanings": [
+      "influence",
+      "effect"
+    ]
+  },
+  {
+    "id": "vocab-n3-002",
+    "kanji": "環境",
+    "kana": "かんきょう",
+    "english": "environment",
+    "meanings": [
+      "environment"
+    ]
+  },
+  {
+    "id": "vocab-n3-003",
+    "kanji": "状況",
+    "kana": "じょうきょう",
+    "english": "situation, circumstances",
+    "meanings": [
+      "situation",
+      "circumstances"
+    ]
+  },
+  {
+    "id": "vocab-n3-004",
+    "kanji": "状態",
+    "kana": "じょうたい",
+    "english": "condition, state",
+    "meanings": [
+      "condition",
+      "state"
+    ]
+  },
+  {
+    "id": "vocab-n3-005",
+    "kanji": "現状",
+    "kana": "げんじょう",
+    "english": "current situation",
+    "meanings": [
+      "current situation"
+    ]
+  },
+  {
+    "id": "vocab-n3-006",
+    "kanji": "条件",
+    "kana": "じょうけん",
+    "english": "condition, requirement",
+    "meanings": [
+      "condition",
+      "requirement"
+    ]
+  },
+  {
+    "id": "vocab-n3-007",
+    "kanji": "目的",
+    "kana": "もくてき",
+    "english": "purpose, objective",
+    "meanings": [
+      "purpose",
+      "objective"
+    ]
+  },
+  {
+    "id": "vocab-n3-008",
+    "kanji": "目標",
+    "kana": "もくひょう",
+    "english": "goal, target",
+    "meanings": [
+      "goal",
+      "target"
+    ]
+  },
+  {
+    "id": "vocab-n3-009",
+    "kanji": "計画",
+    "kana": "けいかく",
+    "english": "plan",
+    "meanings": [
+      "plan"
+    ]
+  },
+  {
+    "id": "vocab-n3-010",
+    "kanji": "実行",
+    "kana": "じっこう",
+    "english": "execution, implementation",
+    "meanings": [
+      "execution",
+      "implementation"
+    ]
+  },
+  {
+    "id": "vocab-n3-011",
+    "kanji": "行動",
+    "kana": "こうどう",
+    "english": "action, behavior",
+    "meanings": [
+      "action",
+      "behavior"
+    ]
+  },
+  {
+    "id": "vocab-n3-012",
+    "kanji": "活動",
+    "kana": "かつどう",
+    "english": "activity",
+    "meanings": [
+      "activity"
+    ]
+  },
+  {
+    "id": "vocab-n3-013",
+    "kanji": "経験",
+    "kana": "けいけん",
+    "english": "experience",
+    "meanings": [
+      "experience"
+    ]
+  },
+  {
+    "id": "vocab-n3-014",
+    "kanji": "体験",
+    "kana": "たいけん",
+    "english": "personal experience",
+    "meanings": [
+      "personal experience"
+    ]
+  },
+  {
+    "id": "vocab-n3-015",
+    "kanji": "知識",
+    "kana": "ちしき",
+    "english": "knowledge",
+    "meanings": [
+      "knowledge"
+    ]
+  },
+  {
+    "id": "vocab-n3-016",
+    "kanji": "情報",
+    "kana": "じょうほう",
+    "english": "information",
+    "meanings": [
+      "information"
+    ]
+  },
+  {
+    "id": "vocab-n3-017",
+    "kanji": "技術",
+    "kana": "ぎじゅつ",
+    "english": "technology, skill",
+    "meanings": [
+      "technology",
+      "skill"
+    ]
+  },
+  {
+    "id": "vocab-n3-018",
+    "kanji": "能力",
+    "kana": "のうりょく",
+    "english": "ability",
+    "meanings": [
+      "ability"
+    ]
+  },
+  {
+    "id": "vocab-n3-019",
+    "kanji": "実力",
+    "kana": "じつりょく",
+    "english": "real ability",
+    "meanings": [
+      "real ability"
+    ]
+  },
+  {
+    "id": "vocab-n3-020",
+    "kanji": "努力",
+    "kana": "どりょく",
+    "english": "effort",
+    "meanings": [
+      "effort"
+    ]
+  },
+  {
+    "id": "vocab-n3-021",
+    "kanji": "成長",
+    "kana": "せいちょう",
+    "english": "growth",
+    "meanings": [
+      "growth"
+    ]
+  },
+  {
+    "id": "vocab-n3-022",
+    "kanji": "発展",
+    "kana": "はってん",
+    "english": "development",
+    "meanings": [
+      "development"
+    ]
+  },
+  {
+    "id": "vocab-n3-023",
+    "kanji": "進歩",
+    "kana": "しんぽ",
+    "english": "progress",
+    "meanings": [
+      "progress"
+    ]
+  },
+  {
+    "id": "vocab-n3-024",
+    "kanji": "改善",
+    "kana": "かいぜん",
+    "english": "improvement",
+    "meanings": [
+      "improvement"
+    ]
+  },
+  {
+    "id": "vocab-n3-025",
+    "kanji": "変化",
+    "kana": "へんか",
+    "english": "change",
+    "meanings": [
+      "change"
+    ]
+  },
+  {
+    "id": "vocab-n3-026",
+    "kanji": "増加",
+    "kana": "ぞうか",
+    "english": "increase",
+    "meanings": [
+      "increase"
+    ]
+  },
+  {
+    "id": "vocab-n3-027",
+    "kanji": "減少",
+    "kana": "げんしょう",
+    "english": "decrease",
+    "meanings": [
+      "decrease"
+    ]
+  },
+  {
+    "id": "vocab-n3-028",
+    "kanji": "比較",
+    "kana": "ひかく",
+    "english": "comparison",
+    "meanings": [
+      "comparison"
+    ]
+  },
+  {
+    "id": "vocab-n3-029",
+    "kanji": "選択",
+    "kana": "せんたく",
+    "english": "selection, choice",
+    "meanings": [
+      "selection",
+      "choice"
+    ]
+  },
+  {
+    "id": "vocab-n3-030",
+    "kanji": "判断",
+    "kana": "はんだん",
+    "english": "judgment, decision",
+    "meanings": [
+      "judgment",
+      "decision"
+    ]
+  },
+  {
+    "id": "vocab-n3-031",
+    "kanji": "決定",
+    "kana": "けってい",
+    "english": "decision",
+    "meanings": [
+      "decision"
+    ]
+  },
+  {
+    "id": "vocab-n3-032",
+    "kanji": "解決",
+    "kana": "かいけつ",
+    "english": "solution, resolution",
+    "meanings": [
+      "solution",
+      "resolution"
+    ]
+  },
+  {
+    "id": "vocab-n3-033",
+    "kanji": "確認",
+    "kana": "かくにん",
+    "english": "confirmation, checking",
+    "meanings": [
+      "confirmation",
+      "checking"
+    ]
+  },
+  {
+    "id": "vocab-n3-034",
+    "kanji": "調査",
+    "kana": "ちょうさ",
+    "english": "investigation, survey",
+    "meanings": [
+      "investigation",
+      "survey"
+    ]
+  },
+  {
+    "id": "vocab-n3-035",
+    "kanji": "研究",
+    "kana": "けんきゅう",
+    "english": "research",
+    "meanings": [
+      "research"
+    ]
+  },
+  {
+    "id": "vocab-n3-036",
+    "kanji": "分析",
+    "kana": "ぶんせき",
+    "english": "analysis",
+    "meanings": [
+      "analysis"
+    ]
+  },
+  {
+    "id": "vocab-n3-037",
+    "kanji": "評価",
+    "kana": "ひょうか",
+    "english": "evaluation",
+    "meanings": [
+      "evaluation"
+    ]
+  },
+  {
+    "id": "vocab-n3-038",
+    "kanji": "報告",
+    "kana": "ほうこく",
+    "english": "report",
+    "meanings": [
+      "report"
+    ]
+  },
+  {
+    "id": "vocab-n3-039",
+    "kanji": "発表",
+    "kana": "はっぴょう",
+    "english": "announcement, presentation",
+    "meanings": [
+      "announcement",
+      "presentation"
+    ]
+  },
+  {
+    "id": "vocab-n3-040",
+    "kanji": "提案",
+    "kana": "ていあん",
+    "english": "proposal",
+    "meanings": [
+      "proposal"
+    ]
+  },
+  {
+    "id": "vocab-n3-041",
+    "kanji": "要求",
+    "kana": "ようきゅう",
+    "english": "demand, request",
+    "meanings": [
+      "demand",
+      "request"
+    ]
+  },
+  {
+    "id": "vocab-n3-042",
+    "kanji": "希望",
+    "kana": "きぼう",
+    "english": "hope, wish",
+    "meanings": [
+      "hope",
+      "wish"
+    ]
+  },
+  {
+    "id": "vocab-n3-043",
+    "kanji": "期待",
+    "kana": "きたい",
+    "english": "expectation",
+    "meanings": [
+      "expectation"
+    ]
+  },
+  {
+    "id": "vocab-n3-044",
+    "kanji": "責任",
+    "kana": "せきにん",
+    "english": "responsibility",
+    "meanings": [
+      "responsibility"
+    ]
+  },
+  {
+    "id": "vocab-n3-045",
+    "kanji": "義務",
+    "kana": "ぎむ",
+    "english": "duty, obligation",
+    "meanings": [
+      "duty",
+      "obligation"
+    ]
+  },
+  {
+    "id": "vocab-n3-046",
+    "kanji": "権利",
+    "kana": "けんり",
+    "english": "right, entitlement",
+    "meanings": [
+      "right",
+      "entitlement"
+    ]
+  },
+  {
+    "id": "vocab-n3-047",
+    "kanji": "関係",
+    "kana": "かんけい",
+    "english": "relationship, connection",
+    "meanings": [
+      "relationship",
+      "connection"
+    ]
+  },
+  {
+    "id": "vocab-n3-048",
+    "kanji": "人間関係",
+    "kana": "にんげんかんけい",
+    "english": "human relationships",
+    "meanings": [
+      "human relationships"
+    ]
+  },
+  {
+    "id": "vocab-n3-049",
+    "kanji": "協力",
+    "kana": "きょうりょく",
+    "english": "cooperation",
+    "meanings": [
+      "cooperation"
+    ]
+  },
+  {
+    "id": "vocab-n3-050",
+    "kanji": "競争",
+    "kana": "きょうそう",
+    "english": "competition",
+    "meanings": [
+      "competition"
+    ]
+  },
+  {
+    "id": "vocab-n3-051",
+    "kanji": "賛成",
+    "kana": "さんせい",
+    "english": "agreement, approval",
+    "meanings": [
+      "agreement",
+      "approval"
+    ]
+  },
+  {
+    "id": "vocab-n3-052",
+    "kanji": "反対",
+    "kana": "はんたい",
+    "english": "opposition",
+    "meanings": [
+      "opposition"
+    ]
+  },
+  {
+    "id": "vocab-n3-053",
+    "kanji": "理解",
+    "kana": "りかい",
+    "english": "understanding",
+    "meanings": [
+      "understanding"
+    ]
+  },
+  {
+    "id": "vocab-n3-054",
+    "kanji": "誤解",
+    "kana": "ごかい",
+    "english": "misunderstanding",
+    "meanings": [
+      "misunderstanding"
+    ]
+  },
+  {
+    "id": "vocab-n3-055",
+    "kanji": "表現",
+    "kana": "ひょうげん",
+    "english": "expression",
+    "meanings": [
+      "expression"
+    ]
+  },
+  {
+    "id": "vocab-n3-056",
+    "kanji": "印象",
+    "kana": "いんしょう",
+    "english": "impression",
+    "meanings": [
+      "impression"
+    ]
+  },
+  {
+    "id": "vocab-n3-057",
+    "kanji": "感情",
+    "kana": "かんじょう",
+    "english": "emotion, feeling",
+    "meanings": [
+      "emotion",
+      "feeling"
+    ]
+  },
+  {
+    "id": "vocab-n3-058",
+    "kanji": "感動",
+    "kana": "かんどう",
+    "english": "being deeply moved",
+    "meanings": [
+      "being deeply moved"
+    ]
+  },
+  {
+    "id": "vocab-n3-059",
+    "kanji": "緊張",
+    "kana": "きんちょう",
+    "english": "tension, nervousness",
+    "meanings": [
+      "tension",
+      "nervousness"
+    ]
+  },
+  {
+    "id": "vocab-n3-060",
+    "kanji": "自信",
+    "kana": "じしん",
+    "english": "self-confidence",
+    "meanings": [
+      "self-confidence"
+    ]
+  },
+  {
+    "id": "vocab-n3-061",
+    "kanji": "不安",
+    "kana": "ふあん",
+    "english": "anxiety, unease",
+    "meanings": [
+      "anxiety",
+      "unease"
+    ]
+  },
+  {
+    "id": "vocab-n3-062",
+    "kanji": "満足",
+    "kana": "まんぞく",
+    "english": "satisfaction",
+    "meanings": [
+      "satisfaction"
+    ]
+  },
+  {
+    "id": "vocab-n3-063",
+    "kanji": "不満",
+    "kana": "ふまん",
+    "english": "dissatisfaction",
+    "meanings": [
+      "dissatisfaction"
+    ]
+  },
+  {
+    "id": "vocab-n3-064",
+    "kanji": "成功",
+    "kana": "せいこう",
+    "english": "success",
+    "meanings": [
+      "success"
+    ]
+  },
+  {
+    "id": "vocab-n3-065",
+    "kanji": "失敗",
+    "kana": "しっぱい",
+    "english": "failure",
+    "meanings": [
+      "failure"
+    ]
+  },
+  {
+    "id": "vocab-n3-066",
+    "kanji": "挑戦",
+    "kana": "ちょうせん",
+    "english": "challenge",
+    "meanings": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "vocab-n3-067",
+    "kanji": "達成",
+    "kana": "たっせい",
+    "english": "achievement",
+    "meanings": [
+      "achievement"
+    ]
+  },
+  {
+    "id": "vocab-n3-068",
+    "kanji": "完成",
+    "kana": "かんせい",
+    "english": "completion",
+    "meanings": [
+      "completion"
+    ]
+  },
+  {
+    "id": "vocab-n3-069",
+    "kanji": "継続",
+    "kana": "けいぞく",
+    "english": "continuation",
+    "meanings": [
+      "continuation"
+    ]
+  },
+  {
+    "id": "vocab-n3-070",
+    "kanji": "中止",
+    "kana": "ちゅうし",
+    "english": "cancellation, suspension",
+    "meanings": [
+      "cancellation",
+      "suspension"
+    ]
+  },
+  {
+    "id": "vocab-n3-071",
+    "kanji": "延期",
+    "kana": "えんき",
+    "english": "postponement",
+    "meanings": [
+      "postponement"
+    ]
+  },
+  {
+    "id": "vocab-n3-072",
+    "kanji": "変更",
+    "kana": "へんこう",
+    "english": "change, modification",
+    "meanings": [
+      "change",
+      "modification"
+    ]
+  },
+  {
+    "id": "vocab-n3-073",
+    "kanji": "提出",
+    "kana": "ていしゅつ",
+    "english": "submission",
+    "meanings": [
+      "submission"
+    ]
+  },
+  {
+    "id": "vocab-n3-074",
+    "kanji": "申請",
+    "kana": "しんせい",
+    "english": "application",
+    "meanings": [
+      "application"
+    ]
+  },
+  {
+    "id": "vocab-n3-075",
+    "kanji": "承認",
+    "kana": "しょうにん",
+    "english": "approval",
+    "meanings": [
+      "approval"
+    ]
+  },
+  {
+    "id": "vocab-n3-076",
+    "kanji": "許可",
+    "kana": "きょか",
+    "english": "permission",
+    "meanings": [
+      "permission"
+    ]
+  },
+  {
+    "id": "vocab-n3-077",
+    "kanji": "禁止",
+    "kana": "きんし",
+    "english": "prohibition",
+    "meanings": [
+      "prohibition"
+    ]
+  },
+  {
+    "id": "vocab-n3-078",
+    "kanji": "規則",
+    "kana": "きそく",
+    "english": "rule, regulation",
+    "meanings": [
+      "rule",
+      "regulation"
+    ]
+  },
+  {
+    "id": "vocab-n3-079",
+    "kanji": "制度",
+    "kana": "せいど",
+    "english": "system, institution",
+    "meanings": [
+      "system",
+      "institution"
+    ]
+  },
+  {
+    "id": "vocab-n3-080",
+    "kanji": "政策",
+    "kana": "せいさく",
+    "english": "policy",
+    "meanings": [
+      "policy"
+    ]
+  },
+  {
+    "id": "vocab-n3-081",
+    "kanji": "経済",
+    "kana": "けいざい",
+    "english": "economy",
+    "meanings": [
+      "economy"
+    ]
+  },
+  {
+    "id": "vocab-n3-082",
+    "kanji": "社会",
+    "kana": "しゃかい",
+    "english": "society",
+    "meanings": [
+      "society"
+    ]
+  },
+  {
+    "id": "vocab-n3-083",
+    "kanji": "資源",
+    "kana": "しげん",
+    "english": "resources",
+    "meanings": [
+      "resources"
+    ]
+  },
+  {
+    "id": "vocab-n3-084",
+    "kanji": "費用",
+    "kana": "ひよう",
+    "english": "expense, cost",
+    "meanings": [
+      "expense",
+      "cost"
+    ]
+  },
+  {
+    "id": "vocab-n3-085",
+    "kanji": "収入",
+    "kana": "しゅうにゅう",
+    "english": "income",
+    "meanings": [
+      "income"
+    ]
+  },
+  {
+    "id": "vocab-n3-086",
+    "kanji": "支出",
+    "kana": "ししゅつ",
+    "english": "expenditure",
+    "meanings": [
+      "expenditure"
+    ]
+  },
+  {
+    "id": "vocab-n3-087",
+    "kanji": "利益",
+    "kana": "りえき",
+    "english": "profit, benefit",
+    "meanings": [
+      "profit",
+      "benefit"
+    ]
+  },
+  {
+    "id": "vocab-n3-088",
+    "kanji": "損失",
+    "kana": "そんしつ",
+    "english": "loss",
+    "meanings": [
+      "loss"
+    ]
+  },
+  {
+    "id": "vocab-n3-089",
+    "kanji": "品質",
+    "kana": "ひんしつ",
+    "english": "quality",
+    "meanings": [
+      "quality"
+    ]
+  },
+  {
+    "id": "vocab-n3-090",
+    "kanji": "価格",
+    "kana": "かかく",
+    "english": "price",
+    "meanings": [
+      "price"
+    ]
+  },
+  {
+    "id": "vocab-n3-091",
+    "kanji": "価値",
+    "kana": "かち",
+    "english": "value",
+    "meanings": [
+      "value"
+    ]
+  },
+  {
+    "id": "vocab-n3-092",
+    "kanji": "利用",
+    "kana": "りよう",
+    "english": "use, utilization",
+    "meanings": [
+      "use",
+      "utilization"
+    ]
+  },
+  {
+    "id": "vocab-n3-093",
+    "kanji": "提供",
+    "kana": "ていきょう",
+    "english": "provision, offer",
+    "meanings": [
+      "provision",
+      "offer"
+    ]
+  },
+  {
+    "id": "vocab-n3-094",
+    "kanji": "運営",
+    "kana": "うんえい",
+    "english": "management, operation",
+    "meanings": [
+      "management",
+      "operation"
+    ]
+  },
+  {
+    "id": "vocab-n3-095",
+    "kanji": "管理",
+    "kana": "かんり",
+    "english": "management, control",
+    "meanings": [
+      "management",
+      "control"
+    ]
+  }
+]

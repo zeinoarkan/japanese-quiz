@@ -1,96 +1,135 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="id">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kana & Kanji Quiz</title>
-<meta name="description" content="Latihan kanji JLPT N5 dan N4 dengan kuis romaji dan arti">
-<meta name="theme-color" content="#0f1117">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#426f42" />
+  <meta name="description" content="Jepun Quiz — latihan mandiri Hiragana, Katakana, Kanji, dan Kosakata JLPT secara lokal." />
+  <title>Jepun Quiz — Japanese Learning</title>
+  <link rel="stylesheet" href="style.css" />
+  <script defer src="scripts.js"></script>
 </head>
 <body>
+  <div class="app-shell">
+    <header class="topbar">
+      <button class="icon-button menu-button" id="openLevels" type="button" aria-label="Buka pilihan level" title="Pilih level">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" /></svg>
+      </button>
+      <span class="brand">JEPUN <span>QUIZ</span></span>
+      <div class="scoreboard" aria-live="polite" aria-atomic="true">
+        <span class="score correct"><span class="score-icon">✓</span><span id="correctCount">0</span></span>
+        <span class="score incorrect"><span class="score-icon">×</span><span id="incorrectCount">0</span></span>
+        <span class="remaining">Remaining: <strong id="remainingCount">16</strong></span>
+      </div>
+    </header>
 
-<header>
-  <h1>Kana & Kanji Quiz</h1>
-  <p>Pilih level, pilih karakter, pilih mode tebakan, lalu uji dirimu</p>
-</header>
+    <main class="quiz-layout" id="quizLayout">
+      <section class="question-column" aria-label="Kartu soal">
+        <article class="question-card" id="questionCard">
+          <div class="question-face" id="questionFace">
+            <div class="question-content">
+              <div class="reading" id="questionReading" hidden></div>
+              <div class="main-japanese" id="questionText">思う</div>
+              <p class="prompt-helper" id="promptHelper"></p>
+            </div>
+          </div>
+          <div class="question-details" id="questionDetails" hidden>
+            <h2>Meaning</h2>
+            <ol id="meaningList"></ol>
+          </div>
+          <div class="question-footer" id="questionFooter">
+            <span id="questionGroup">Vocabulary N5 Group 1</span>
+            <span id="questionNumber">1 of 16</span>
+          </div>
+        </article>
+        <div class="question-bottom">
+          <div class="switch-group" role="group" aria-label="Tampilan soal">
+            <button class="switch active" type="button" data-prompt-mode="kanji" aria-pressed="true">Kanji</button>
+            <button class="switch" type="button" data-prompt-mode="kana" aria-pressed="false">Kana</button>
+            <button class="switch" type="button" data-prompt-mode="english" aria-pressed="false">English</button>
+          </div>
+          <p class="swipe-tip" id="swipeTip">Pilih arti yang benar</p>
+        </div>
+      </section>
+      <section class="answer-column" aria-label="Pilihan jawaban">
+        <div class="answer-grid" id="answerGrid"></div>
+        <div class="answer-bottom">
+          <div class="switch-group" role="group" aria-label="Bahasa pilihan jawaban">
+            <button class="switch" type="button" data-answer-mode="kana" aria-pressed="false">Kana</button>
+            <button class="switch active" type="button" data-answer-mode="english" aria-pressed="true">English</button>
+          </div>
+          <button class="next-button" id="nextButton" type="button" disabled>Next <span aria-hidden="true">→</span></button>
+        </div>
+      </section>
+    </main>
+  </div>
 
-<!-- LEVEL SELECTOR -->
-<div class="level-panel">
-  <div class="level-title">Level JLPT</div>
-  <div class="level-options">
-    <button class="level-btn" data-level="HIRAGANA">Hiragana</button>
-    <button class="level-btn" data-level="KATAKANA">Katakana</button>
-    <button class="level-btn active" data-level="N5">Kanji N5</button>
-    <button class="level-btn" data-level="N4">Kanji N4</button>
+  <div class="overlay level-overlay" id="levelOverlay" hidden>
+    <div class="overlay-dim" data-close-levels="true"></div>
+    <section class="level-panel" role="dialog" aria-modal="true" aria-labelledby="levelTitle" tabindex="-1">
+      <header class="drawer-header">
+        <h2 id="levelTitle">Level Select</h2>
+        <button class="close-button" id="closeLevels" type="button" aria-label="Tutup pilihan level">×</button>
+      </header>
+      <div class="drawer-body">
+        <div class="big-tabs" id="categoryTabs" role="tablist" aria-label="Kategori kuis">
+          <button class="big-tab active" type="button" data-category="kanji" role="tab" aria-selected="true">Kanji</button>
+          <button class="big-tab" type="button" data-category="vocabulary" role="tab" aria-selected="false">Vocabulary</button>
+        </div>
+        <div id="levelListView">
+          <div class="level-list" id="levelList"></div>
+        </div>
+        <div id="groupListView" hidden>
+          <div class="selected-level-header">
+            <button class="back-button" id="backToLevels" type="button" aria-label="Kembali ke daftar level">‹</button>
+            <div class="selected-icon" id="selectedLevelIcon">語</div>
+            <div class="selected-level-text"><strong id="selectedLevelName">Vocabulary N5</strong><small id="selectedLevelSubtitle">0 quizzes studied</small></div>
+            <div class="ring ring-lg" id="selectedProgressRing"><span id="selectedProgressPct">0%</span></div>
+          </div>
+          <div class="drawer-separator"></div>
+          <h3 class="drawer-label">QUIZ SIZE</h3>
+          <div class="size-tabs" id="sizeTabs" role="group" aria-label="Ukuran kuis">
+            <button class="size-tab active" data-size="short" type="button">Short</button>
+            <button class="size-tab" data-size="medium" type="button">Medium</button>
+            <button class="size-tab" data-size="long" type="button">Long</button>
+          </div>
+          <h3 class="drawer-label">QUICK QUIZ</h3>
+          <div class="quick-grid">
+            <button class="quick-card" id="randomQuiz" type="button"><span class="quick-icon" aria-hidden="true">🎲</span><strong>Random Quiz</strong><small>A random mix from the level</small></button>
+            <button class="quick-card" id="weakQuiz" type="button"><span class="quick-icon" aria-hidden="true">🎯</span><strong>Review Weakest</strong><small>Study your most frequent mistakes</small></button>
+          </div>
+          <h3 class="drawer-label group-heading">LEVEL GROUPS</h3>
+          <div class="group-grid" id="groupGrid"></div>
+          <p class="group-footnote">Progres disimpan otomatis di browser ini.</p>
+          <button class="reset-progress" id="resetProgress" type="button">Reset progres level ini</button>
+        </div>
+        <p class="drawer-credit">Offline quiz · data JSON lokal</p>
+      </div>
+    </section>
   </div>
-</div>
 
-<!-- MODE SELECTOR -->
-<div class="mode-panel">
-  <div class="mode-title">Mode Kuis</div>
-  <div class="mode-options">
-    <button class="mode-btn active" id="mode-romaji" data-mode="romaji">Tebak Romaji</button>
-    <button class="mode-btn" id="mode-arti" data-mode="arti">Tebak Arti</button>
+  <div class="overlay results-overlay" id="resultsOverlay" hidden>
+    <div class="overlay-dim"></div>
+    <section class="result-modal" role="dialog" aria-modal="true" aria-labelledby="resultHeading" tabindex="-1">
+      <div class="result-head" id="resultHead">
+        <span class="result-kicker">SET COMPLETE</span>
+        <h2 id="resultHeading">100%</h2>
+        <p id="resultScore">16 of 16 correct</p>
+        <span class="result-pill" id="resultGroupName">Vocabulary N5 · Group 1</span>
+      </div>
+      <div class="result-content">
+        <div class="progress-line"><strong id="resultLevelLabel">Vocabulary N5 progress</strong><div><span id="resultLevelPercent">0%</span><span class="progress-bump" id="resultDelta">+0%</span></div></div>
+        <div class="progress-track"><div class="progress-fill" id="resultProgressBar"></div></div>
+        <button class="result-primary" id="nextGroupButton" type="button">Next Group <span aria-hidden="true">→</span></button>
+        <div class="result-actions">
+          <button id="restartButton" type="button">↻ Restart</button>
+          <button id="retryButton" type="button">× Retry Incorrect</button>
+          <button id="randomAgainButton" type="button">⚄ Random Quiz</button>
+          <button id="chooseLevelButton" type="button">☰ Choose Level</button>
+        </div>
+      </div>
+    </section>
   </div>
-</div>
-
-<!-- CHARACTER SELECTOR -->
-<div class="selector-panel" id="selector-panel">
-  <div class="selector-top">
-    <span class="label">Pilih Karakter</span>
-    <span><button class="global-toggle" id="hard-btn" title="Pilih kanji yang sering kamu salah">Pilih yang sering salah</button> · <button class="global-toggle" id="global-toggle-btn">Pilih Semua</button></span>
-  </div>
-  <div id="groups-wrap"></div>
-  <div class="selector-footer">
-    <span class="sel-info"><span id="sel-count">0</span> karakter dipilih</span>
-    <button class="start-btn" id="start-btn" disabled>Mulai</button>
-  </div>
-</div>
-
-<!-- QUIZ AREA -->
-<div id="quiz-area">
-  <div style="width:100%">
-    <div class="progress-bar-wrap"><div class="progress-bar-fill" id="progress-fill"></div></div>
-    <div class="progress-label" id="progress-label">0 / 0</div>
-  </div>
-  <div class="score-strip">
-    <div class="correct">Benar: <b id="sc-correct">0</b></div>
-    <div class="wrong">Salah: <b id="sc-wrong">0</b></div>
-    <div>Sisa: <b id="sc-rem">0</b></div>
-  </div>
-  <div class="flash-card">
-    <span class="char-display" id="char-display">一</span>
-    <div class="char-hint" id="char-hint">Ketik romaji</div>
-    <div class="answer-row">
-      <input type="text" id="answer-input" placeholder="jawaban" autocomplete="off" spellcheck="false">
-    </div>
-    <div class="feedback" id="feedback" aria-live="polite"></div>
-    <div class="feedback-extra" id="feedback-extra"></div>
-  </div>
-  <div class="quiz-nav">
-    <button id="next-btn">Cek</button>
-    <button id="quit-btn" class="secondary-btn" type="button">Keluar</button>
-  </div>
-</div>
-
-<!-- RESULTS AREA -->
-<div id="results-area">
-  <div class="result-card">
-    <h2>Kuis Selesai!</h2>
-    <div class="big-score" id="final-score">0%</div>
-    <div class="sub" id="final-sub">0 benar dari 0</div>
-    <div class="missed-list" id="missed-wrap" style="display:none">
-      <h3>Tinjau lagi:</h3>
-      <div class="missed-items" id="missed-items"></div>
-    </div>
-    <button class="retry-btn" id="retry-missed-btn" style="display:none">Ulangi yang Salah</button>
-    <button class="retry-btn secondary" id="retry-btn">Menu Utama</button>
-  </div>
-</div>
-
-<script src="script.js"></script>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
 </body>
 </html>

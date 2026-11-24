@@ -1,115 +1,930 @@
 [
   {
-    "group": "Angka",
-    "label": "Kanji Angka",
-    "chars": [
-      {"jp":"一","rom":"ichi","arti":"satu"},
-      {"jp":"二","rom":"ni","arti":"dua"},
-      {"jp":"三","rom":"san","arti":"tiga"},
-      {"jp":"四","rom":"yon","arti":"empat"},
-      {"jp":"五","rom":"go","arti":"lima"},
-      {"jp":"六","rom":"roku","arti":"enam"},
-      {"jp":"七","rom":"nana","arti":"tujuh"},
-      {"jp":"八","rom":"hachi","arti":"delapan"},
-      {"jp":"九","rom":"kyuu","arti":"sembilan"},
-      {"jp":"十","rom":"juu","arti":"sepuluh"},
-      {"jp":"百","rom":"hyaku","arti":"seratus"},
-      {"jp":"千","rom":"sen","arti":"seribu"},
-      {"jp":"万","rom":"man","arti":"sepuluh ribu"},
-      {"jp":"円","rom":"en","arti":"yen"},
-      {"jp":"半","rom":"han","arti":"setengah"}
+    "id": "kanji-n5-001",
+    "kanji": "一",
+    "kana": "いち",
+    "english": "one",
+    "meanings": [
+      "one"
     ]
   },
   {
-    "group": "Waktu",
-    "label": "Hari, Tanggal, Bulan, Tahun",
-    "chars": [
-      {"jp":"日","rom":"nichi","arti":"matahari"},
-      {"jp":"年","rom":"toshi","arti":"tahun"},
-      {"jp":"時","rom":"toki","arti":"waktu"},
-      {"jp":"月","rom":"tsuki","arti":"bulan"}
+    "id": "kanji-n5-002",
+    "kanji": "二",
+    "kana": "に",
+    "english": "two",
+    "meanings": [
+      "two"
     ]
   },
   {
-    "group": "N5 Kanji",
-    "label": "Kanji Dasar N5",
-    "chars": [
-      {"jp":"国","rom":"kuni","arti":"negara"},
-      {"jp":"人","rom":"hito","arti":"orang"},
-      {"jp":"大","rom":"oo","arti":"besar"},
-      {"jp":"本","rom":"hon","arti":"buku"},
-      {"jp":"中","rom":"naka","arti":"dalam"},
-      {"jp":"長","rom":"naga","arti":"panjang"},
-      {"jp":"出","rom":"shutsu","arti":"keluar"},
-      {"jp":"行","rom":"kou","arti":"pergi"},
-      {"jp":"見","rom":"mi","arti":"melihat"},
-      {"jp":"後","rom":"ato","arti":"belakang"},
-      {"jp":"前","rom":"mae","arti":"depan"},
-      {"jp":"生","rom":"sei","arti":"hidup"},
-      {"jp":"間","rom":"ma","arti":"antara"},
-      {"jp":"上","rom":"ue","arti":"atas"},
-      {"jp":"東","rom":"higashi","arti":"timur"},
-      {"jp":"今","rom":"ima","arti":"sekarang"},
-      {"jp":"金","rom":"kin","arti":"emas"},
-      {"jp":"入","rom":"iri","arti":"masuk"},
-      {"jp":"学","rom":"gaku","arti":"belajar"},
-      {"jp":"高","rom":"taka","arti":"tinggi"},
-      {"jp":"子","rom":"ko","arti":"anak"},
-      {"jp":"外","rom":"soto","arti":"luar"},
-      {"jp":"下","rom":"shita","arti":"bawah"},
-      {"jp":"来","rom":"ku","arti":"datang"},
-      {"jp":"気","rom":"ki","arti":"udara"},
-      {"jp":"小","rom":"chii","arti":"kecil"},
-      {"jp":"山","rom":"yama","arti":"gunung"},
-      {"jp":"話","rom":"hanashi","arti":"bicara"},
-      {"jp":"女","rom":"onna","arti":"perempuan"},
-      {"jp":"北","rom":"kita","arti":"utara"},
-      {"jp":"午","rom":"go","arti":"siang"},
-      {"jp":"書","rom":"sho","arti":"menulis"},
-      {"jp":"先","rom":"saki","arti":"duluan"},
-      {"jp":"名","rom":"na","arti":"nama"},
-      {"jp":"川","rom":"kawa","arti":"sungai"},
-      {"jp":"水","rom":"mizu","arti":"air"},
-      {"jp":"男","rom":"otoko","arti":"pria"},
-      {"jp":"西","rom":"nishi","arti":"barat"},
-      {"jp":"電","rom":"den","arti":"listrik"},
-      {"jp":"校","rom":"kou","arti":"sekolah"},
-      {"jp":"語","rom":"go","arti":"bahasa"},
-      {"jp":"土","rom":"tsuchi","arti":"tanah"},
-      {"jp":"木","rom":"ki","arti":"pohon"},
-      {"jp":"聞","rom":"ki","arti":"mendengar"},
-      {"jp":"食","rom":"ta","arti":"makan"},
-      {"jp":"車","rom":"kuruma","arti":"mobil"},
-      {"jp":"何","rom":"nani","arti":"apa"},
-      {"jp":"南","rom":"minami","arti":"selatan"},
-      {"jp":"毎","rom":"mai","arti":"setiap"},
-      {"jp":"白","rom":"shiro","arti":"putih"},
-      {"jp":"天","rom":"ten","arti":"langit"},
-      {"jp":"火","rom":"hi","arti":"api"},
-      {"jp":"読","rom":"yo","arti":"membaca"},
-      {"jp":"友","rom":"tomo","arti":"teman"},
-      {"jp":"右","rom":"migi","arti":"kanan"},
-      {"jp":"左","rom":"hidari","arti":"kiri"},
-      {"jp":"休","rom":"yasu","arti":"istirahat"},
-      {"jp":"父","rom":"chichi","arti":"ayah"},
-      {"jp":"母","rom":"haha","arti":"ibu"},
-      {"jp":"雨","rom":"ame","arti":"hujan"},
-      {"jp":"店","rom":"mise","arti":"toko"},
-      {"jp":"会","rom":"kai","arti":"bertemu"},
-      {"jp":"明","rom":"aka","arti":"terang"},
-      {"jp":"花","rom":"hana","arti":"bunga"},
-      {"jp":"週","rom":"shuu","arti":"minggu"},
-      {"jp":"魚","rom":"sakana","arti":"ikan"},
-      {"jp":"道","rom":"michi","arti":"jalan"},
-      {"jp":"足","rom":"ashi","arti":"kaki"},
-      {"jp":"手","rom":"te","arti":"tangan"},
-      {"jp":"新","rom":"atarashii","arti":"baru"},
-      {"jp":"古","rom":"furui","arti":"lama / tua"},
-      {"jp":"楽","rom":"tanoshii","arti":"menyenangkan"},
-      {"jp":"家","rom":"ie","arti":"rumah"},
-      {"jp":"飲","rom":"no","arti":"minum"},
-      {"jp":"買","rom":"ka","arti":"membeli"},
-      {"jp":"駅","rom":"eki","arti":"stasiun"}
+    "id": "kanji-n5-003",
+    "kanji": "三",
+    "kana": "さん",
+    "english": "three",
+    "meanings": [
+      "three"
+    ]
+  },
+  {
+    "id": "kanji-n5-004",
+    "kanji": "四",
+    "kana": "よん",
+    "english": "four",
+    "meanings": [
+      "four"
+    ]
+  },
+  {
+    "id": "kanji-n5-005",
+    "kanji": "五",
+    "kana": "ご",
+    "english": "five",
+    "meanings": [
+      "five"
+    ]
+  },
+  {
+    "id": "kanji-n5-006",
+    "kanji": "六",
+    "kana": "ろく",
+    "english": "six",
+    "meanings": [
+      "six"
+    ]
+  },
+  {
+    "id": "kanji-n5-007",
+    "kanji": "七",
+    "kana": "なな",
+    "english": "seven",
+    "meanings": [
+      "seven"
+    ]
+  },
+  {
+    "id": "kanji-n5-008",
+    "kanji": "八",
+    "kana": "はち",
+    "english": "eight",
+    "meanings": [
+      "eight"
+    ]
+  },
+  {
+    "id": "kanji-n5-009",
+    "kanji": "九",
+    "kana": "きゅう",
+    "english": "nine",
+    "meanings": [
+      "nine"
+    ]
+  },
+  {
+    "id": "kanji-n5-010",
+    "kanji": "十",
+    "kana": "じゅう",
+    "english": "ten",
+    "meanings": [
+      "ten"
+    ]
+  },
+  {
+    "id": "kanji-n5-011",
+    "kanji": "百",
+    "kana": "ひゃく",
+    "english": "hundred",
+    "meanings": [
+      "hundred"
+    ]
+  },
+  {
+    "id": "kanji-n5-012",
+    "kanji": "千",
+    "kana": "せん",
+    "english": "thousand",
+    "meanings": [
+      "thousand"
+    ]
+  },
+  {
+    "id": "kanji-n5-013",
+    "kanji": "万",
+    "kana": "まん",
+    "english": "ten thousand",
+    "meanings": [
+      "ten thousand"
+    ]
+  },
+  {
+    "id": "kanji-n5-014",
+    "kanji": "円",
+    "kana": "えん",
+    "english": "yen, circle",
+    "meanings": [
+      "yen",
+      "circle"
+    ]
+  },
+  {
+    "id": "kanji-n5-015",
+    "kanji": "日",
+    "kana": "ひ",
+    "english": "day, sun",
+    "meanings": [
+      "day",
+      "sun"
+    ]
+  },
+  {
+    "id": "kanji-n5-016",
+    "kanji": "月",
+    "kana": "つき",
+    "english": "moon, month",
+    "meanings": [
+      "moon",
+      "month"
+    ]
+  },
+  {
+    "id": "kanji-n5-017",
+    "kanji": "火",
+    "kana": "ひ",
+    "english": "fire",
+    "meanings": [
+      "fire"
+    ]
+  },
+  {
+    "id": "kanji-n5-018",
+    "kanji": "水",
+    "kana": "みず",
+    "english": "water",
+    "meanings": [
+      "water"
+    ]
+  },
+  {
+    "id": "kanji-n5-019",
+    "kanji": "木",
+    "kana": "き",
+    "english": "tree, wood",
+    "meanings": [
+      "tree",
+      "wood"
+    ]
+  },
+  {
+    "id": "kanji-n5-020",
+    "kanji": "金",
+    "kana": "かね",
+    "english": "money, gold",
+    "meanings": [
+      "money",
+      "gold"
+    ]
+  },
+  {
+    "id": "kanji-n5-021",
+    "kanji": "土",
+    "kana": "つち",
+    "english": "earth, soil",
+    "meanings": [
+      "earth",
+      "soil"
+    ]
+  },
+  {
+    "id": "kanji-n5-022",
+    "kanji": "年",
+    "kana": "とし",
+    "english": "year",
+    "meanings": [
+      "year"
+    ]
+  },
+  {
+    "id": "kanji-n5-023",
+    "kanji": "時",
+    "kana": "とき",
+    "english": "time, hour",
+    "meanings": [
+      "time",
+      "hour"
+    ]
+  },
+  {
+    "id": "kanji-n5-024",
+    "kanji": "分",
+    "kana": "ふん",
+    "english": "minute, part",
+    "meanings": [
+      "minute",
+      "part"
+    ]
+  },
+  {
+    "id": "kanji-n5-025",
+    "kanji": "半",
+    "kana": "はん",
+    "english": "half",
+    "meanings": [
+      "half"
+    ]
+  },
+  {
+    "id": "kanji-n5-026",
+    "kanji": "今",
+    "kana": "いま",
+    "english": "now",
+    "meanings": [
+      "now"
+    ]
+  },
+  {
+    "id": "kanji-n5-027",
+    "kanji": "前",
+    "kana": "まえ",
+    "english": "before, front",
+    "meanings": [
+      "before",
+      "front"
+    ]
+  },
+  {
+    "id": "kanji-n5-028",
+    "kanji": "後",
+    "kana": "あと",
+    "english": "after, behind",
+    "meanings": [
+      "after",
+      "behind"
+    ]
+  },
+  {
+    "id": "kanji-n5-029",
+    "kanji": "午",
+    "kana": "ご",
+    "english": "noon",
+    "meanings": [
+      "noon"
+    ]
+  },
+  {
+    "id": "kanji-n5-030",
+    "kanji": "毎",
+    "kana": "まい",
+    "english": "every",
+    "meanings": [
+      "every"
+    ]
+  },
+  {
+    "id": "kanji-n5-031",
+    "kanji": "何",
+    "kana": "なに",
+    "english": "what",
+    "meanings": [
+      "what"
+    ]
+  },
+  {
+    "id": "kanji-n5-032",
+    "kanji": "人",
+    "kana": "ひと",
+    "english": "person",
+    "meanings": [
+      "person"
+    ]
+  },
+  {
+    "id": "kanji-n5-033",
+    "kanji": "男",
+    "kana": "おとこ",
+    "english": "man",
+    "meanings": [
+      "man"
+    ]
+  },
+  {
+    "id": "kanji-n5-034",
+    "kanji": "女",
+    "kana": "おんな",
+    "english": "woman",
+    "meanings": [
+      "woman"
+    ]
+  },
+  {
+    "id": "kanji-n5-035",
+    "kanji": "子",
+    "kana": "こ",
+    "english": "child",
+    "meanings": [
+      "child"
+    ]
+  },
+  {
+    "id": "kanji-n5-036",
+    "kanji": "父",
+    "kana": "ちち",
+    "english": "father",
+    "meanings": [
+      "father"
+    ]
+  },
+  {
+    "id": "kanji-n5-037",
+    "kanji": "母",
+    "kana": "はは",
+    "english": "mother",
+    "meanings": [
+      "mother"
+    ]
+  },
+  {
+    "id": "kanji-n5-038",
+    "kanji": "友",
+    "kana": "とも",
+    "english": "friend",
+    "meanings": [
+      "friend"
+    ]
+  },
+  {
+    "id": "kanji-n5-039",
+    "kanji": "先",
+    "kana": "さき",
+    "english": "ahead, previous",
+    "meanings": [
+      "ahead",
+      "previous"
+    ]
+  },
+  {
+    "id": "kanji-n5-040",
+    "kanji": "生",
+    "kana": "せい",
+    "english": "life, birth",
+    "meanings": [
+      "life",
+      "birth"
+    ]
+  },
+  {
+    "id": "kanji-n5-041",
+    "kanji": "学",
+    "kana": "がく",
+    "english": "study, learning",
+    "meanings": [
+      "study",
+      "learning"
+    ]
+  },
+  {
+    "id": "kanji-n5-042",
+    "kanji": "校",
+    "kana": "こう",
+    "english": "school",
+    "meanings": [
+      "school"
+    ]
+  },
+  {
+    "id": "kanji-n5-043",
+    "kanji": "本",
+    "kana": "ほん",
+    "english": "book, origin",
+    "meanings": [
+      "book",
+      "origin"
+    ]
+  },
+  {
+    "id": "kanji-n5-044",
+    "kanji": "語",
+    "kana": "ご",
+    "english": "language, word",
+    "meanings": [
+      "language",
+      "word"
+    ]
+  },
+  {
+    "id": "kanji-n5-045",
+    "kanji": "名",
+    "kana": "な",
+    "english": "name",
+    "meanings": [
+      "name"
+    ]
+  },
+  {
+    "id": "kanji-n5-046",
+    "kanji": "大",
+    "kana": "おおきい",
+    "english": "big",
+    "meanings": [
+      "big"
+    ]
+  },
+  {
+    "id": "kanji-n5-047",
+    "kanji": "小",
+    "kana": "ちいさい",
+    "english": "small",
+    "meanings": [
+      "small"
+    ]
+  },
+  {
+    "id": "kanji-n5-048",
+    "kanji": "中",
+    "kana": "なか",
+    "english": "middle, inside",
+    "meanings": [
+      "middle",
+      "inside"
+    ]
+  },
+  {
+    "id": "kanji-n5-049",
+    "kanji": "上",
+    "kana": "うえ",
+    "english": "up, above",
+    "meanings": [
+      "up",
+      "above"
+    ]
+  },
+  {
+    "id": "kanji-n5-050",
+    "kanji": "下",
+    "kana": "した",
+    "english": "down, below",
+    "meanings": [
+      "down",
+      "below"
+    ]
+  },
+  {
+    "id": "kanji-n5-051",
+    "kanji": "左",
+    "kana": "ひだり",
+    "english": "left",
+    "meanings": [
+      "left"
+    ]
+  },
+  {
+    "id": "kanji-n5-052",
+    "kanji": "右",
+    "kana": "みぎ",
+    "english": "right",
+    "meanings": [
+      "right"
+    ]
+  },
+  {
+    "id": "kanji-n5-053",
+    "kanji": "東",
+    "kana": "ひがし",
+    "english": "east",
+    "meanings": [
+      "east"
+    ]
+  },
+  {
+    "id": "kanji-n5-054",
+    "kanji": "西",
+    "kana": "にし",
+    "english": "west",
+    "meanings": [
+      "west"
+    ]
+  },
+  {
+    "id": "kanji-n5-055",
+    "kanji": "南",
+    "kana": "みなみ",
+    "english": "south",
+    "meanings": [
+      "south"
+    ]
+  },
+  {
+    "id": "kanji-n5-056",
+    "kanji": "北",
+    "kana": "きた",
+    "english": "north",
+    "meanings": [
+      "north"
+    ]
+  },
+  {
+    "id": "kanji-n5-057",
+    "kanji": "外",
+    "kana": "そと",
+    "english": "outside",
+    "meanings": [
+      "outside"
+    ]
+  },
+  {
+    "id": "kanji-n5-058",
+    "kanji": "国",
+    "kana": "くに",
+    "english": "country",
+    "meanings": [
+      "country"
+    ]
+  },
+  {
+    "id": "kanji-n5-059",
+    "kanji": "山",
+    "kana": "やま",
+    "english": "mountain",
+    "meanings": [
+      "mountain"
+    ]
+  },
+  {
+    "id": "kanji-n5-060",
+    "kanji": "川",
+    "kana": "かわ",
+    "english": "river",
+    "meanings": [
+      "river"
+    ]
+  },
+  {
+    "id": "kanji-n5-061",
+    "kanji": "田",
+    "kana": "た",
+    "english": "rice field",
+    "meanings": [
+      "rice field"
+    ]
+  },
+  {
+    "id": "kanji-n5-062",
+    "kanji": "天",
+    "kana": "てん",
+    "english": "heaven, sky",
+    "meanings": [
+      "heaven",
+      "sky"
+    ]
+  },
+  {
+    "id": "kanji-n5-063",
+    "kanji": "気",
+    "kana": "き",
+    "english": "spirit, energy",
+    "meanings": [
+      "spirit",
+      "energy"
+    ]
+  },
+  {
+    "id": "kanji-n5-064",
+    "kanji": "雨",
+    "kana": "あめ",
+    "english": "rain",
+    "meanings": [
+      "rain"
+    ]
+  },
+  {
+    "id": "kanji-n5-065",
+    "kanji": "空",
+    "kana": "そら",
+    "english": "sky, empty",
+    "meanings": [
+      "sky",
+      "empty"
+    ]
+  },
+  {
+    "id": "kanji-n5-066",
+    "kanji": "花",
+    "kana": "はな",
+    "english": "flower",
+    "meanings": [
+      "flower"
+    ]
+  },
+  {
+    "id": "kanji-n5-067",
+    "kanji": "白",
+    "kana": "しろ",
+    "english": "white",
+    "meanings": [
+      "white"
+    ]
+  },
+  {
+    "id": "kanji-n5-068",
+    "kanji": "赤",
+    "kana": "あか",
+    "english": "red",
+    "meanings": [
+      "red"
+    ]
+  },
+  {
+    "id": "kanji-n5-069",
+    "kanji": "青",
+    "kana": "あお",
+    "english": "blue",
+    "meanings": [
+      "blue"
+    ]
+  },
+  {
+    "id": "kanji-n5-070",
+    "kanji": "黒",
+    "kana": "くろ",
+    "english": "black",
+    "meanings": [
+      "black"
+    ]
+  },
+  {
+    "id": "kanji-n5-071",
+    "kanji": "車",
+    "kana": "くるま",
+    "english": "car, vehicle",
+    "meanings": [
+      "car",
+      "vehicle"
+    ]
+  },
+  {
+    "id": "kanji-n5-072",
+    "kanji": "電",
+    "kana": "でん",
+    "english": "electricity",
+    "meanings": [
+      "electricity"
+    ]
+  },
+  {
+    "id": "kanji-n5-073",
+    "kanji": "駅",
+    "kana": "えき",
+    "english": "station",
+    "meanings": [
+      "station"
+    ]
+  },
+  {
+    "id": "kanji-n5-074",
+    "kanji": "道",
+    "kana": "みち",
+    "english": "road, way",
+    "meanings": [
+      "road",
+      "way"
+    ]
+  },
+  {
+    "id": "kanji-n5-075",
+    "kanji": "店",
+    "kana": "みせ",
+    "english": "shop, store",
+    "meanings": [
+      "shop",
+      "store"
+    ]
+  },
+  {
+    "id": "kanji-n5-076",
+    "kanji": "食",
+    "kana": "たべる",
+    "english": "to eat",
+    "meanings": [
+      "to eat"
+    ]
+  },
+  {
+    "id": "kanji-n5-077",
+    "kanji": "飲",
+    "kana": "のむ",
+    "english": "to drink",
+    "meanings": [
+      "to drink"
+    ]
+  },
+  {
+    "id": "kanji-n5-078",
+    "kanji": "見",
+    "kana": "みる",
+    "english": "to see",
+    "meanings": [
+      "to see"
+    ]
+  },
+  {
+    "id": "kanji-n5-079",
+    "kanji": "聞",
+    "kana": "きく",
+    "english": "to hear, to ask",
+    "meanings": [
+      "to hear",
+      "to ask"
+    ]
+  },
+  {
+    "id": "kanji-n5-080",
+    "kanji": "読",
+    "kana": "よむ",
+    "english": "to read",
+    "meanings": [
+      "to read"
+    ]
+  },
+  {
+    "id": "kanji-n5-081",
+    "kanji": "書",
+    "kana": "かく",
+    "english": "to write",
+    "meanings": [
+      "to write"
+    ]
+  },
+  {
+    "id": "kanji-n5-082",
+    "kanji": "話",
+    "kana": "はなす",
+    "english": "to speak",
+    "meanings": [
+      "to speak"
+    ]
+  },
+  {
+    "id": "kanji-n5-083",
+    "kanji": "言",
+    "kana": "いう",
+    "english": "to say",
+    "meanings": [
+      "to say"
+    ]
+  },
+  {
+    "id": "kanji-n5-084",
+    "kanji": "行",
+    "kana": "いく",
+    "english": "to go",
+    "meanings": [
+      "to go"
+    ]
+  },
+  {
+    "id": "kanji-n5-085",
+    "kanji": "来",
+    "kana": "くる",
+    "english": "to come",
+    "meanings": [
+      "to come"
+    ]
+  },
+  {
+    "id": "kanji-n5-086",
+    "kanji": "帰",
+    "kana": "かえる",
+    "english": "to return home",
+    "meanings": [
+      "to return home"
+    ]
+  },
+  {
+    "id": "kanji-n5-087",
+    "kanji": "出",
+    "kana": "でる",
+    "english": "to leave, to go out",
+    "meanings": [
+      "to leave",
+      "to go out"
+    ]
+  },
+  {
+    "id": "kanji-n5-088",
+    "kanji": "入",
+    "kana": "はいる",
+    "english": "to enter",
+    "meanings": [
+      "to enter"
+    ]
+  },
+  {
+    "id": "kanji-n5-089",
+    "kanji": "立",
+    "kana": "たつ",
+    "english": "to stand",
+    "meanings": [
+      "to stand"
+    ]
+  },
+  {
+    "id": "kanji-n5-090",
+    "kanji": "休",
+    "kana": "やすむ",
+    "english": "to rest",
+    "meanings": [
+      "to rest"
+    ]
+  },
+  {
+    "id": "kanji-n5-091",
+    "kanji": "買",
+    "kana": "かう",
+    "english": "to buy",
+    "meanings": [
+      "to buy"
+    ]
+  },
+  {
+    "id": "kanji-n5-092",
+    "kanji": "売",
+    "kana": "うる",
+    "english": "to sell",
+    "meanings": [
+      "to sell"
+    ]
+  },
+  {
+    "id": "kanji-n5-093",
+    "kanji": "会",
+    "kana": "あう",
+    "english": "to meet",
+    "meanings": [
+      "to meet"
+    ]
+  },
+  {
+    "id": "kanji-n5-094",
+    "kanji": "長",
+    "kana": "ながい",
+    "english": "long",
+    "meanings": [
+      "long"
+    ]
+  },
+  {
+    "id": "kanji-n5-095",
+    "kanji": "高",
+    "kana": "たかい",
+    "english": "high, expensive",
+    "meanings": [
+      "high",
+      "expensive"
+    ]
+  },
+  {
+    "id": "kanji-n5-096",
+    "kanji": "安",
+    "kana": "やすい",
+    "english": "cheap, safe",
+    "meanings": [
+      "cheap",
+      "safe"
+    ]
+  },
+  {
+    "id": "kanji-n5-097",
+    "kanji": "新",
+    "kana": "あたらしい",
+    "english": "new",
+    "meanings": [
+      "new"
+    ]
+  },
+  {
+    "id": "kanji-n5-098",
+    "kanji": "古",
+    "kana": "ふるい",
+    "english": "old",
+    "meanings": [
+      "old"
+    ]
+  },
+  {
+    "id": "kanji-n5-099",
+    "kanji": "多",
+    "kana": "おおい",
+    "english": "many",
+    "meanings": [
+      "many"
+    ]
+  },
+  {
+    "id": "kanji-n5-100",
+    "kanji": "少",
+    "kana": "すくない",
+    "english": "few",
+    "meanings": [
+      "few"
     ]
   }
 ]

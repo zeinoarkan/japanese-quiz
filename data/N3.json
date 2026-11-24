@@ -1,0 +1,586 @@
+[
+  {
+    "id": "kanji-n3-001",
+    "kanji": "決",
+    "kana": "きめる",
+    "english": "to decide",
+    "meanings": [
+      "to decide"
+    ]
+  },
+  {
+    "id": "kanji-n3-002",
+    "kanji": "定",
+    "kana": "さだめる",
+    "english": "to establish, to set",
+    "meanings": [
+      "to establish",
+      "to set"
+    ]
+  },
+  {
+    "id": "kanji-n3-003",
+    "kanji": "選",
+    "kana": "えらぶ",
+    "english": "to choose",
+    "meanings": [
+      "to choose"
+    ]
+  },
+  {
+    "id": "kanji-n3-004",
+    "kanji": "比",
+    "kana": "くらべる",
+    "english": "to compare",
+    "meanings": [
+      "to compare"
+    ]
+  },
+  {
+    "id": "kanji-n3-005",
+    "kanji": "較",
+    "kana": "かく",
+    "english": "comparison",
+    "meanings": [
+      "comparison"
+    ]
+  },
+  {
+    "id": "kanji-n3-006",
+    "kanji": "変",
+    "kana": "かわる",
+    "english": "to change",
+    "meanings": [
+      "to change"
+    ]
+  },
+  {
+    "id": "kanji-n3-007",
+    "kanji": "化",
+    "kana": "か",
+    "english": "change, transformation",
+    "meanings": [
+      "change",
+      "transformation"
+    ]
+  },
+  {
+    "id": "kanji-n3-008",
+    "kanji": "増",
+    "kana": "ふえる",
+    "english": "to increase",
+    "meanings": [
+      "to increase"
+    ]
+  },
+  {
+    "id": "kanji-n3-009",
+    "kanji": "減",
+    "kana": "へる",
+    "english": "to decrease",
+    "meanings": [
+      "to decrease"
+    ]
+  },
+  {
+    "id": "kanji-n3-010",
+    "kanji": "続",
+    "kana": "つづく",
+    "english": "to continue",
+    "meanings": [
+      "to continue"
+    ]
+  },
+  {
+    "id": "kanji-n3-011",
+    "kanji": "返",
+    "kana": "かえす",
+    "english": "to return something",
+    "meanings": [
+      "to return something"
+    ]
+  },
+  {
+    "id": "kanji-n3-012",
+    "kanji": "直",
+    "kana": "なおす",
+    "english": "to fix",
+    "meanings": [
+      "to fix"
+    ]
+  },
+  {
+    "id": "kanji-n3-013",
+    "kanji": "完",
+    "kana": "かん",
+    "english": "completion",
+    "meanings": [
+      "completion"
+    ]
+  },
+  {
+    "id": "kanji-n3-014",
+    "kanji": "成",
+    "kana": "なる",
+    "english": "to become",
+    "meanings": [
+      "to become"
+    ]
+  },
+  {
+    "id": "kanji-n3-015",
+    "kanji": "功",
+    "kana": "こう",
+    "english": "achievement, merit",
+    "meanings": [
+      "achievement",
+      "merit"
+    ]
+  },
+  {
+    "id": "kanji-n3-016",
+    "kanji": "失",
+    "kana": "うしなう",
+    "english": "to lose",
+    "meanings": [
+      "to lose"
+    ]
+  },
+  {
+    "id": "kanji-n3-017",
+    "kanji": "敗",
+    "kana": "はい",
+    "english": "defeat",
+    "meanings": [
+      "defeat"
+    ]
+  },
+  {
+    "id": "kanji-n3-018",
+    "kanji": "勝",
+    "kana": "かつ",
+    "english": "to win",
+    "meanings": [
+      "to win"
+    ]
+  },
+  {
+    "id": "kanji-n3-019",
+    "kanji": "負",
+    "kana": "まける",
+    "english": "to lose a contest",
+    "meanings": [
+      "to lose a contest"
+    ]
+  },
+  {
+    "id": "kanji-n3-020",
+    "kanji": "望",
+    "kana": "のぞむ",
+    "english": "to hope, to desire",
+    "meanings": [
+      "to hope",
+      "to desire"
+    ]
+  },
+  {
+    "id": "kanji-n3-021",
+    "kanji": "願",
+    "kana": "ねがう",
+    "english": "to wish",
+    "meanings": [
+      "to wish"
+    ]
+  },
+  {
+    "id": "kanji-n3-022",
+    "kanji": "必",
+    "kana": "かならず",
+    "english": "certainly, without fail",
+    "meanings": [
+      "certainly",
+      "without fail"
+    ]
+  },
+  {
+    "id": "kanji-n3-023",
+    "kanji": "要",
+    "kana": "よう",
+    "english": "necessity, important point",
+    "meanings": [
+      "necessity",
+      "important point"
+    ]
+  },
+  {
+    "id": "kanji-n3-025",
+    "kanji": "無",
+    "kana": "ない",
+    "english": "none, without",
+    "meanings": [
+      "none",
+      "without"
+    ]
+  },
+  {
+    "id": "kanji-n3-026",
+    "kanji": "有",
+    "kana": "ある",
+    "english": "to exist, to have",
+    "meanings": [
+      "to exist",
+      "to have"
+    ]
+  },
+  {
+    "id": "kanji-n3-027",
+    "kanji": "関",
+    "kana": "かん",
+    "english": "connection, relation",
+    "meanings": [
+      "connection",
+      "relation"
+    ]
+  },
+  {
+    "id": "kanji-n3-028",
+    "kanji": "係",
+    "kana": "かかり",
+    "english": "person in charge, connection",
+    "meanings": [
+      "person in charge",
+      "connection"
+    ]
+  },
+  {
+    "id": "kanji-n3-029",
+    "kanji": "連",
+    "kana": "つれる",
+    "english": "to take along",
+    "meanings": [
+      "to take along"
+    ]
+  },
+  {
+    "id": "kanji-n3-030",
+    "kanji": "絡",
+    "kana": "からむ",
+    "english": "to entwine",
+    "meanings": [
+      "to entwine"
+    ]
+  },
+  {
+    "id": "kanji-n3-031",
+    "kanji": "調",
+    "kana": "しらべる",
+    "english": "to investigate",
+    "meanings": [
+      "to investigate"
+    ]
+  },
+  {
+    "id": "kanji-n3-032",
+    "kanji": "査",
+    "kana": "さ",
+    "english": "investigation",
+    "meanings": [
+      "investigation"
+    ]
+  },
+  {
+    "id": "kanji-n3-033",
+    "kanji": "報",
+    "kana": "ほう",
+    "english": "report, news",
+    "meanings": [
+      "report",
+      "news"
+    ]
+  },
+  {
+    "id": "kanji-n3-034",
+    "kanji": "告",
+    "kana": "つげる",
+    "english": "to announce",
+    "meanings": [
+      "to announce"
+    ]
+  },
+  {
+    "id": "kanji-n3-035",
+    "kanji": "説",
+    "kana": "せつ",
+    "english": "theory, explanation",
+    "meanings": [
+      "theory",
+      "explanation"
+    ]
+  },
+  {
+    "id": "kanji-n3-036",
+    "kanji": "解",
+    "kana": "とく",
+    "english": "to solve",
+    "meanings": [
+      "to solve"
+    ]
+  },
+  {
+    "id": "kanji-n3-037",
+    "kanji": "確",
+    "kana": "たしか",
+    "english": "certain, sure",
+    "meanings": [
+      "certain",
+      "sure"
+    ]
+  },
+  {
+    "id": "kanji-n3-038",
+    "kanji": "認",
+    "kana": "みとめる",
+    "english": "to recognize",
+    "meanings": [
+      "to recognize"
+    ]
+  },
+  {
+    "id": "kanji-n3-039",
+    "kanji": "観",
+    "kana": "かん",
+    "english": "view, observation",
+    "meanings": [
+      "view",
+      "observation"
+    ]
+  },
+  {
+    "id": "kanji-n3-040",
+    "kanji": "景",
+    "kana": "けい",
+    "english": "scenery",
+    "meanings": [
+      "scenery"
+    ]
+  },
+  {
+    "id": "kanji-n3-041",
+    "kanji": "経",
+    "kana": "へる",
+    "english": "to pass through",
+    "meanings": [
+      "to pass through"
+    ]
+  },
+  {
+    "id": "kanji-n3-042",
+    "kanji": "済",
+    "kana": "すむ",
+    "english": "to finish, to settle",
+    "meanings": [
+      "to finish",
+      "to settle"
+    ]
+  },
+  {
+    "id": "kanji-n3-043",
+    "kanji": "資",
+    "kana": "し",
+    "english": "resources, capital",
+    "meanings": [
+      "resources",
+      "capital"
+    ]
+  },
+  {
+    "id": "kanji-n3-044",
+    "kanji": "料",
+    "kana": "りょう",
+    "english": "materials, charge",
+    "meanings": [
+      "materials",
+      "charge"
+    ]
+  },
+  {
+    "id": "kanji-n3-045",
+    "kanji": "収",
+    "kana": "おさめる",
+    "english": "to collect, to receive",
+    "meanings": [
+      "to collect",
+      "to receive"
+    ]
+  },
+  {
+    "id": "kanji-n3-046",
+    "kanji": "支",
+    "kana": "ささえる",
+    "english": "to support",
+    "meanings": [
+      "to support"
+    ]
+  },
+  {
+    "id": "kanji-n3-047",
+    "kanji": "払",
+    "kana": "はらう",
+    "english": "to pay",
+    "meanings": [
+      "to pay"
+    ]
+  },
+  {
+    "id": "kanji-n3-048",
+    "kanji": "商",
+    "kana": "しょう",
+    "english": "commerce",
+    "meanings": [
+      "commerce"
+    ]
+  },
+  {
+    "id": "kanji-n3-049",
+    "kanji": "品",
+    "kana": "しな",
+    "english": "goods, article",
+    "meanings": [
+      "goods",
+      "article"
+    ]
+  },
+  {
+    "id": "kanji-n3-050",
+    "kanji": "質",
+    "kana": "しつ",
+    "english": "quality, characteristic",
+    "meanings": [
+      "quality",
+      "characteristic"
+    ]
+  },
+  {
+    "id": "kanji-n3-051",
+    "kanji": "価",
+    "kana": "か",
+    "english": "value, price",
+    "meanings": [
+      "value",
+      "price"
+    ]
+  },
+  {
+    "id": "kanji-n3-052",
+    "kanji": "値",
+    "kana": "ね",
+    "english": "price, value",
+    "meanings": [
+      "price",
+      "value"
+    ]
+  },
+  {
+    "id": "kanji-n3-053",
+    "kanji": "容",
+    "kana": "よう",
+    "english": "appearance, contents",
+    "meanings": [
+      "appearance",
+      "contents"
+    ]
+  },
+  {
+    "id": "kanji-n3-054",
+    "kanji": "易",
+    "kana": "やさしい",
+    "english": "easy",
+    "meanings": [
+      "easy"
+    ]
+  },
+  {
+    "id": "kanji-n3-055",
+    "kanji": "難",
+    "kana": "むずかしい",
+    "english": "difficult",
+    "meanings": [
+      "difficult"
+    ]
+  },
+  {
+    "id": "kanji-n3-056",
+    "kanji": "複",
+    "kana": "ふく",
+    "english": "multiple, complex",
+    "meanings": [
+      "multiple",
+      "complex"
+    ]
+  },
+  {
+    "id": "kanji-n3-057",
+    "kanji": "雑",
+    "kana": "ざつ",
+    "english": "miscellaneous, complicated",
+    "meanings": [
+      "miscellaneous",
+      "complicated"
+    ]
+  },
+  {
+    "id": "kanji-n3-058",
+    "kanji": "境",
+    "kana": "さかい",
+    "english": "boundary",
+    "meanings": [
+      "boundary"
+    ]
+  },
+  {
+    "id": "kanji-n3-059",
+    "kanji": "環",
+    "kana": "かん",
+    "english": "ring, environment",
+    "meanings": [
+      "ring",
+      "environment"
+    ]
+  },
+  {
+    "id": "kanji-n3-060",
+    "kanji": "保",
+    "kana": "たもつ",
+    "english": "to maintain",
+    "meanings": [
+      "to maintain"
+    ]
+  },
+  {
+    "id": "kanji-n3-061",
+    "kanji": "護",
+    "kana": "ご",
+    "english": "protection",
+    "meanings": [
+      "protection"
+    ]
+  },
+  {
+    "id": "kanji-n3-062",
+    "kanji": "歴",
+    "kana": "れき",
+    "english": "history",
+    "meanings": [
+      "history"
+    ]
+  },
+  {
+    "id": "kanji-n3-063",
+    "kanji": "史",
+    "kana": "し",
+    "english": "history",
+    "meanings": [
+      "history"
+    ]
+  }
+]

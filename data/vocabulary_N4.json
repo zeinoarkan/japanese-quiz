@@ -1,0 +1,985 @@
+[
+  {
+    "id": "vocab-n4-001",
+    "kanji": "為る",
+    "kana": "する",
+    "english": "to do, to carry out, to make into",
+    "meanings": [
+      "to do",
+      "to carry out",
+      "to make into"
+    ]
+  },
+  {
+    "id": "vocab-n4-002",
+    "kanji": "別の場所",
+    "kana": "べつのばしょ",
+    "english": "another place",
+    "meanings": [
+      "another place"
+    ]
+  },
+  {
+    "id": "vocab-n4-003",
+    "kanji": "以上",
+    "kana": "いじょう",
+    "english": "more than, beyond",
+    "meanings": [
+      "more than",
+      "beyond"
+    ]
+  },
+  {
+    "id": "vocab-n4-004",
+    "kanji": "以外",
+    "kana": "いがい",
+    "english": "except, other than",
+    "meanings": [
+      "except",
+      "other than"
+    ]
+  },
+  {
+    "id": "vocab-n4-005",
+    "kanji": "一度",
+    "kana": "いちど",
+    "english": "once",
+    "meanings": [
+      "once"
+    ]
+  },
+  {
+    "id": "vocab-n4-006",
+    "kanji": "一生懸命",
+    "kana": "いっしょうけんめい",
+    "english": "with all one's effort",
+    "meanings": [
+      "with all one's effort"
+    ]
+  },
+  {
+    "id": "vocab-n4-007",
+    "kanji": "最近",
+    "kana": "さいきん",
+    "english": "recently",
+    "meanings": [
+      "recently"
+    ]
+  },
+  {
+    "id": "vocab-n4-008",
+    "kanji": "将来",
+    "kana": "しょうらい",
+    "english": "future",
+    "meanings": [
+      "future"
+    ]
+  },
+  {
+    "id": "vocab-n4-009",
+    "kanji": "予定",
+    "kana": "よてい",
+    "english": "plan, schedule",
+    "meanings": [
+      "plan",
+      "schedule"
+    ]
+  },
+  {
+    "id": "vocab-n4-010",
+    "kanji": "約束",
+    "kana": "やくそく",
+    "english": "promise, appointment",
+    "meanings": [
+      "promise",
+      "appointment"
+    ]
+  },
+  {
+    "id": "vocab-n4-011",
+    "kanji": "連絡",
+    "kana": "れんらく",
+    "english": "contact, communication",
+    "meanings": [
+      "contact",
+      "communication"
+    ]
+  },
+  {
+    "id": "vocab-n4-012",
+    "kanji": "相談",
+    "kana": "そうだん",
+    "english": "consultation",
+    "meanings": [
+      "consultation"
+    ]
+  },
+  {
+    "id": "vocab-n4-013",
+    "kanji": "紹介",
+    "kana": "しょうかい",
+    "english": "introduction",
+    "meanings": [
+      "introduction"
+    ]
+  },
+  {
+    "id": "vocab-n4-014",
+    "kanji": "説明",
+    "kana": "せつめい",
+    "english": "explanation",
+    "meanings": [
+      "explanation"
+    ]
+  },
+  {
+    "id": "vocab-n4-015",
+    "kanji": "質問",
+    "kana": "しつもん",
+    "english": "question",
+    "meanings": [
+      "question"
+    ]
+  },
+  {
+    "id": "vocab-n4-016",
+    "kanji": "返事",
+    "kana": "へんじ",
+    "english": "reply",
+    "meanings": [
+      "reply"
+    ]
+  },
+  {
+    "id": "vocab-n4-017",
+    "kanji": "意見",
+    "kana": "いけん",
+    "english": "opinion",
+    "meanings": [
+      "opinion"
+    ]
+  },
+  {
+    "id": "vocab-n4-018",
+    "kanji": "理由",
+    "kana": "りゆう",
+    "english": "reason",
+    "meanings": [
+      "reason"
+    ]
+  },
+  {
+    "id": "vocab-n4-019",
+    "kanji": "原因",
+    "kana": "げんいん",
+    "english": "cause",
+    "meanings": [
+      "cause"
+    ]
+  },
+  {
+    "id": "vocab-n4-020",
+    "kanji": "結果",
+    "kana": "けっか",
+    "english": "result",
+    "meanings": [
+      "result"
+    ]
+  },
+  {
+    "id": "vocab-n4-021",
+    "kanji": "場合",
+    "kana": "ばあい",
+    "english": "case, situation",
+    "meanings": [
+      "case",
+      "situation"
+    ]
+  },
+  {
+    "id": "vocab-n4-022",
+    "kanji": "機会",
+    "kana": "きかい",
+    "english": "opportunity",
+    "meanings": [
+      "opportunity"
+    ]
+  },
+  {
+    "id": "vocab-n4-023",
+    "kanji": "必要",
+    "kana": "ひつよう",
+    "english": "necessary",
+    "meanings": [
+      "necessary"
+    ]
+  },
+  {
+    "id": "vocab-n4-024",
+    "kanji": "大切",
+    "kana": "たいせつ",
+    "english": "important, precious",
+    "meanings": [
+      "important",
+      "precious"
+    ]
+  },
+  {
+    "id": "vocab-n4-025",
+    "kanji": "簡単",
+    "kana": "かんたん",
+    "english": "simple, easy",
+    "meanings": [
+      "simple",
+      "easy"
+    ]
+  },
+  {
+    "id": "vocab-n4-026",
+    "kanji": "複雑",
+    "kana": "ふくざつ",
+    "english": "complex",
+    "meanings": [
+      "complex"
+    ]
+  },
+  {
+    "id": "vocab-n4-027",
+    "kanji": "安全",
+    "kana": "あんぜん",
+    "english": "safe",
+    "meanings": [
+      "safe"
+    ]
+  },
+  {
+    "id": "vocab-n4-028",
+    "kanji": "危険",
+    "kana": "きけん",
+    "english": "dangerous",
+    "meanings": [
+      "dangerous"
+    ]
+  },
+  {
+    "id": "vocab-n4-029",
+    "kanji": "自由",
+    "kana": "じゆう",
+    "english": "freedom, free",
+    "meanings": [
+      "freedom",
+      "free"
+    ]
+  },
+  {
+    "id": "vocab-n4-030",
+    "kanji": "特別",
+    "kana": "とくべつ",
+    "english": "special",
+    "meanings": [
+      "special"
+    ]
+  },
+  {
+    "id": "vocab-n4-031",
+    "kanji": "普通",
+    "kana": "ふつう",
+    "english": "normal, ordinary",
+    "meanings": [
+      "normal",
+      "ordinary"
+    ]
+  },
+  {
+    "id": "vocab-n4-032",
+    "kanji": "真面目",
+    "kana": "まじめ",
+    "english": "serious, diligent",
+    "meanings": [
+      "serious",
+      "diligent"
+    ]
+  },
+  {
+    "id": "vocab-n4-033",
+    "kanji": "親切",
+    "kana": "しんせつ",
+    "english": "kind",
+    "meanings": [
+      "kind"
+    ]
+  },
+  {
+    "id": "vocab-n4-034",
+    "kanji": "丁寧",
+    "kana": "ていねい",
+    "english": "polite, careful",
+    "meanings": [
+      "polite",
+      "careful"
+    ]
+  },
+  {
+    "id": "vocab-n4-035",
+    "kanji": "十分",
+    "kana": "じゅうぶん",
+    "english": "enough, sufficient",
+    "meanings": [
+      "enough",
+      "sufficient"
+    ]
+  },
+  {
+    "id": "vocab-n4-036",
+    "kanji": "残念",
+    "kana": "ざんねん",
+    "english": "regrettable",
+    "meanings": [
+      "regrettable"
+    ]
+  },
+  {
+    "id": "vocab-n4-037",
+    "kanji": "無理",
+    "kana": "むり",
+    "english": "impossible, unreasonable",
+    "meanings": [
+      "impossible",
+      "unreasonable"
+    ]
+  },
+  {
+    "id": "vocab-n4-038",
+    "kanji": "便利",
+    "kana": "べんり",
+    "english": "convenient",
+    "meanings": [
+      "convenient"
+    ]
+  },
+  {
+    "id": "vocab-n4-039",
+    "kanji": "不便",
+    "kana": "ふべん",
+    "english": "inconvenient",
+    "meanings": [
+      "inconvenient"
+    ]
+  },
+  {
+    "id": "vocab-n4-040",
+    "kanji": "静か",
+    "kana": "しずか",
+    "english": "quiet",
+    "meanings": [
+      "quiet"
+    ]
+  },
+  {
+    "id": "vocab-n4-041",
+    "kanji": "賑やか",
+    "kana": "にぎやか",
+    "english": "lively",
+    "meanings": [
+      "lively"
+    ]
+  },
+  {
+    "id": "vocab-n4-042",
+    "kanji": "眠い",
+    "kana": "ねむい",
+    "english": "sleepy",
+    "meanings": [
+      "sleepy"
+    ]
+  },
+  {
+    "id": "vocab-n4-043",
+    "kanji": "嬉しい",
+    "kana": "うれしい",
+    "english": "happy",
+    "meanings": [
+      "happy"
+    ]
+  },
+  {
+    "id": "vocab-n4-044",
+    "kanji": "悲しい",
+    "kana": "かなしい",
+    "english": "sad",
+    "meanings": [
+      "sad"
+    ]
+  },
+  {
+    "id": "vocab-n4-045",
+    "kanji": "寂しい",
+    "kana": "さびしい",
+    "english": "lonely",
+    "meanings": [
+      "lonely"
+    ]
+  },
+  {
+    "id": "vocab-n4-046",
+    "kanji": "怖い",
+    "kana": "こわい",
+    "english": "scary",
+    "meanings": [
+      "scary"
+    ]
+  },
+  {
+    "id": "vocab-n4-047",
+    "kanji": "恥ずかしい",
+    "kana": "はずかしい",
+    "english": "embarrassed",
+    "meanings": [
+      "embarrassed"
+    ]
+  },
+  {
+    "id": "vocab-n4-048",
+    "kanji": "驚く",
+    "kana": "おどろく",
+    "english": "to be surprised",
+    "meanings": [
+      "to be surprised"
+    ]
+  },
+  {
+    "id": "vocab-n4-049",
+    "kanji": "怒る",
+    "kana": "おこる",
+    "english": "to get angry",
+    "meanings": [
+      "to get angry"
+    ]
+  },
+  {
+    "id": "vocab-n4-050",
+    "kanji": "笑う",
+    "kana": "わらう",
+    "english": "to laugh",
+    "meanings": [
+      "to laugh"
+    ]
+  },
+  {
+    "id": "vocab-n4-051",
+    "kanji": "泣く",
+    "kana": "なく",
+    "english": "to cry",
+    "meanings": [
+      "to cry"
+    ]
+  },
+  {
+    "id": "vocab-n4-052",
+    "kanji": "喜ぶ",
+    "kana": "よろこぶ",
+    "english": "to rejoice",
+    "meanings": [
+      "to rejoice"
+    ]
+  },
+  {
+    "id": "vocab-n4-053",
+    "kanji": "心配する",
+    "kana": "しんぱいする",
+    "english": "to worry",
+    "meanings": [
+      "to worry"
+    ]
+  },
+  {
+    "id": "vocab-n4-054",
+    "kanji": "安心する",
+    "kana": "あんしんする",
+    "english": "to feel relieved",
+    "meanings": [
+      "to feel relieved"
+    ]
+  },
+  {
+    "id": "vocab-n4-055",
+    "kanji": "決める",
+    "kana": "きめる",
+    "english": "to decide",
+    "meanings": [
+      "to decide"
+    ]
+  },
+  {
+    "id": "vocab-n4-056",
+    "kanji": "選ぶ",
+    "kana": "えらぶ",
+    "english": "to choose",
+    "meanings": [
+      "to choose"
+    ]
+  },
+  {
+    "id": "vocab-n4-057",
+    "kanji": "比べる",
+    "kana": "くらべる",
+    "english": "to compare",
+    "meanings": [
+      "to compare"
+    ]
+  },
+  {
+    "id": "vocab-n4-058",
+    "kanji": "変える",
+    "kana": "かえる",
+    "english": "to change something",
+    "meanings": [
+      "to change something"
+    ]
+  },
+  {
+    "id": "vocab-n4-059",
+    "kanji": "変わる",
+    "kana": "かわる",
+    "english": "to change",
+    "meanings": [
+      "to change"
+    ]
+  },
+  {
+    "id": "vocab-n4-060",
+    "kanji": "続ける",
+    "kana": "つづける",
+    "english": "to continue something",
+    "meanings": [
+      "to continue something"
+    ]
+  },
+  {
+    "id": "vocab-n4-061",
+    "kanji": "始める",
+    "kana": "はじめる",
+    "english": "to start something",
+    "meanings": [
+      "to start something"
+    ]
+  },
+  {
+    "id": "vocab-n4-062",
+    "kanji": "終わる",
+    "kana": "おわる",
+    "english": "to finish",
+    "meanings": [
+      "to finish"
+    ]
+  },
+  {
+    "id": "vocab-n4-063",
+    "kanji": "用意する",
+    "kana": "よういする",
+    "english": "to prepare",
+    "meanings": [
+      "to prepare"
+    ]
+  },
+  {
+    "id": "vocab-n4-064",
+    "kanji": "準備する",
+    "kana": "じゅんびする",
+    "english": "to prepare",
+    "meanings": [
+      "to prepare"
+    ]
+  },
+  {
+    "id": "vocab-n4-065",
+    "kanji": "片付ける",
+    "kana": "かたづける",
+    "english": "to tidy up",
+    "meanings": [
+      "to tidy up"
+    ]
+  },
+  {
+    "id": "vocab-n4-066",
+    "kanji": "直す",
+    "kana": "なおす",
+    "english": "to fix",
+    "meanings": [
+      "to fix"
+    ]
+  },
+  {
+    "id": "vocab-n4-067",
+    "kanji": "修理する",
+    "kana": "しゅうりする",
+    "english": "to repair",
+    "meanings": [
+      "to repair"
+    ]
+  },
+  {
+    "id": "vocab-n4-068",
+    "kanji": "届ける",
+    "kana": "とどける",
+    "english": "to deliver",
+    "meanings": [
+      "to deliver"
+    ]
+  },
+  {
+    "id": "vocab-n4-069",
+    "kanji": "受け取る",
+    "kana": "うけとる",
+    "english": "to receive",
+    "meanings": [
+      "to receive"
+    ]
+  },
+  {
+    "id": "vocab-n4-070",
+    "kanji": "借りる",
+    "kana": "かりる",
+    "english": "to borrow",
+    "meanings": [
+      "to borrow"
+    ]
+  },
+  {
+    "id": "vocab-n4-071",
+    "kanji": "貸す",
+    "kana": "かす",
+    "english": "to lend",
+    "meanings": [
+      "to lend"
+    ]
+  },
+  {
+    "id": "vocab-n4-072",
+    "kanji": "返す",
+    "kana": "かえす",
+    "english": "to return something",
+    "meanings": [
+      "to return something"
+    ]
+  },
+  {
+    "id": "vocab-n4-073",
+    "kanji": "払う",
+    "kana": "はらう",
+    "english": "to pay",
+    "meanings": [
+      "to pay"
+    ]
+  },
+  {
+    "id": "vocab-n4-074",
+    "kanji": "集める",
+    "kana": "あつめる",
+    "english": "to collect",
+    "meanings": [
+      "to collect"
+    ]
+  },
+  {
+    "id": "vocab-n4-075",
+    "kanji": "調べる",
+    "kana": "しらべる",
+    "english": "to investigate",
+    "meanings": [
+      "to investigate"
+    ]
+  },
+  {
+    "id": "vocab-n4-076",
+    "kanji": "探す",
+    "kana": "さがす",
+    "english": "to look for",
+    "meanings": [
+      "to look for"
+    ]
+  },
+  {
+    "id": "vocab-n4-077",
+    "kanji": "見つける",
+    "kana": "みつける",
+    "english": "to find",
+    "meanings": [
+      "to find"
+    ]
+  },
+  {
+    "id": "vocab-n4-078",
+    "kanji": "育てる",
+    "kana": "そだてる",
+    "english": "to raise, to grow",
+    "meanings": [
+      "to raise",
+      "to grow"
+    ]
+  },
+  {
+    "id": "vocab-n4-079",
+    "kanji": "手伝う",
+    "kana": "てつだう",
+    "english": "to help",
+    "meanings": [
+      "to help"
+    ]
+  },
+  {
+    "id": "vocab-n4-080",
+    "kanji": "引っ越す",
+    "kana": "ひっこす",
+    "english": "to move house",
+    "meanings": [
+      "to move house"
+    ]
+  },
+  {
+    "id": "vocab-n4-081",
+    "kanji": "運転する",
+    "kana": "うんてんする",
+    "english": "to drive",
+    "meanings": [
+      "to drive"
+    ]
+  },
+  {
+    "id": "vocab-n4-082",
+    "kanji": "旅行する",
+    "kana": "りょこうする",
+    "english": "to travel",
+    "meanings": [
+      "to travel"
+    ]
+  },
+  {
+    "id": "vocab-n4-083",
+    "kanji": "予約する",
+    "kana": "よやくする",
+    "english": "to reserve",
+    "meanings": [
+      "to reserve"
+    ]
+  },
+  {
+    "id": "vocab-n4-084",
+    "kanji": "遅れる",
+    "kana": "おくれる",
+    "english": "to be late",
+    "meanings": [
+      "to be late"
+    ]
+  },
+  {
+    "id": "vocab-n4-085",
+    "kanji": "間に合う",
+    "kana": "まにあう",
+    "english": "to be on time",
+    "meanings": [
+      "to be on time"
+    ]
+  },
+  {
+    "id": "vocab-n4-086",
+    "kanji": "急ぐ",
+    "kana": "いそぐ",
+    "english": "to hurry",
+    "meanings": [
+      "to hurry"
+    ]
+  },
+  {
+    "id": "vocab-n4-087",
+    "kanji": "間違える",
+    "kana": "まちがえる",
+    "english": "to make a mistake",
+    "meanings": [
+      "to make a mistake"
+    ]
+  },
+  {
+    "id": "vocab-n4-088",
+    "kanji": "失敗する",
+    "kana": "しっぱいする",
+    "english": "to fail",
+    "meanings": [
+      "to fail"
+    ]
+  },
+  {
+    "id": "vocab-n4-089",
+    "kanji": "成功する",
+    "kana": "せいこうする",
+    "english": "to succeed",
+    "meanings": [
+      "to succeed"
+    ]
+  },
+  {
+    "id": "vocab-n4-090",
+    "kanji": "卒業する",
+    "kana": "そつぎょうする",
+    "english": "to graduate",
+    "meanings": [
+      "to graduate"
+    ]
+  },
+  {
+    "id": "vocab-n4-091",
+    "kanji": "入学する",
+    "kana": "にゅうがくする",
+    "english": "to enroll in school",
+    "meanings": [
+      "to enroll in school"
+    ]
+  },
+  {
+    "id": "vocab-n4-092",
+    "kanji": "留学する",
+    "kana": "りゅうがくする",
+    "english": "to study abroad",
+    "meanings": [
+      "to study abroad"
+    ]
+  },
+  {
+    "id": "vocab-n4-093",
+    "kanji": "結婚する",
+    "kana": "けっこんする",
+    "english": "to get married",
+    "meanings": [
+      "to get married"
+    ]
+  },
+  {
+    "id": "vocab-n4-094",
+    "kanji": "離婚する",
+    "kana": "りこんする",
+    "english": "to divorce",
+    "meanings": [
+      "to divorce"
+    ]
+  },
+  {
+    "id": "vocab-n4-095",
+    "kanji": "病気",
+    "kana": "びょうき",
+    "english": "illness",
+    "meanings": [
+      "illness"
+    ]
+  },
+  {
+    "id": "vocab-n4-096",
+    "kanji": "薬",
+    "kana": "くすり",
+    "english": "medicine",
+    "meanings": [
+      "medicine"
+    ]
+  },
+  {
+    "id": "vocab-n4-097",
+    "kanji": "病院",
+    "kana": "びょういん",
+    "english": "hospital",
+    "meanings": [
+      "hospital"
+    ]
+  },
+  {
+    "id": "vocab-n4-098",
+    "kanji": "試験",
+    "kana": "しけん",
+    "english": "exam",
+    "meanings": [
+      "exam"
+    ]
+  },
+  {
+    "id": "vocab-n4-099",
+    "kanji": "成績",
+    "kana": "せいせき",
+    "english": "grades, results",
+    "meanings": [
+      "grades",
+      "results"
+    ]
+  },
+  {
+    "id": "vocab-n4-100",
+    "kanji": "地図",
+    "kana": "ちず",
+    "english": "map",
+    "meanings": [
+      "map"
+    ]
+  },
+  {
+    "id": "vocab-n4-101",
+    "kanji": "住所",
+    "kana": "じゅうしょ",
+    "english": "address",
+    "meanings": [
+      "address"
+    ]
+  },
+  {
+    "id": "vocab-n4-102",
+    "kanji": "料金",
+    "kana": "りょうきん",
+    "english": "fee, charge",
+    "meanings": [
+      "fee",
+      "charge"
+    ]
+  },
+  {
+    "id": "vocab-n4-103",
+    "kanji": "切符",
+    "kana": "きっぷ",
+    "english": "ticket",
+    "meanings": [
+      "ticket"
+    ]
+  },
+  {
+    "id": "vocab-n4-104",
+    "kanji": "旅館",
+    "kana": "りょかん",
+    "english": "Japanese-style inn",
+    "meanings": [
+      "Japanese-style inn"
+    ]
+  },
+  {
+    "id": "vocab-n4-105",
+    "kanji": "空港",
+    "kana": "くうこう",
+    "english": "airport",
+    "meanings": [
+      "airport"
+    ]
+  },
+  {
+    "id": "vocab-n4-106",
+    "kanji": "文化",
+    "kana": "ぶんか",
+    "english": "culture",
+    "meanings": [
+      "culture"
+    ]
+  },
+  {
+    "id": "vocab-n4-107",
+    "kanji": "習慣",
+    "kana": "しゅうかん",
+    "english": "custom, habit",
+    "meanings": [
+      "custom",
+      "habit"
+    ]
+  }
+]

@@ -1,0 +1,1885 @@
+[
+  {
+    "id": "vocab-n5-001",
+    "kanji": "思う",
+    "kana": "おもう",
+    "english": "to think, to feel",
+    "meanings": [
+      "to think",
+      "to feel"
+    ]
+  },
+  {
+    "id": "vocab-n5-002",
+    "kanji": "映画",
+    "kana": "えいが",
+    "english": "movie",
+    "meanings": [
+      "movie"
+    ]
+  },
+  {
+    "id": "vocab-n5-003",
+    "kanji": "使う",
+    "kana": "つかう",
+    "english": "to use",
+    "meanings": [
+      "to use"
+    ]
+  },
+  {
+    "id": "vocab-n5-004",
+    "kanji": "夏",
+    "kana": "なつ",
+    "english": "summer",
+    "meanings": [
+      "summer"
+    ]
+  },
+  {
+    "id": "vocab-n5-005",
+    "kanji": "意味",
+    "kana": "いみ",
+    "english": "meaning",
+    "meanings": [
+      "meaning"
+    ]
+  },
+  {
+    "id": "vocab-n5-006",
+    "kanji": "頭",
+    "kana": "あたま",
+    "english": "head",
+    "meanings": [
+      "head"
+    ]
+  },
+  {
+    "id": "vocab-n5-007",
+    "kanji": "一か月",
+    "kana": "いっかげつ",
+    "english": "one month",
+    "meanings": [
+      "one month"
+    ]
+  },
+  {
+    "id": "vocab-n5-008",
+    "kanji": "なる",
+    "kana": "なる",
+    "english": "to become, to result in",
+    "meanings": [
+      "to become",
+      "to result in"
+    ]
+  },
+  {
+    "id": "vocab-n5-009",
+    "kanji": "今日",
+    "kana": "きょう",
+    "english": "today",
+    "meanings": [
+      "today"
+    ]
+  },
+  {
+    "id": "vocab-n5-010",
+    "kanji": "明日",
+    "kana": "あした",
+    "english": "tomorrow",
+    "meanings": [
+      "tomorrow"
+    ]
+  },
+  {
+    "id": "vocab-n5-011",
+    "kanji": "昨日",
+    "kana": "きのう",
+    "english": "yesterday",
+    "meanings": [
+      "yesterday"
+    ]
+  },
+  {
+    "id": "vocab-n5-012",
+    "kanji": "朝",
+    "kana": "あさ",
+    "english": "morning",
+    "meanings": [
+      "morning"
+    ]
+  },
+  {
+    "id": "vocab-n5-013",
+    "kanji": "昼",
+    "kana": "ひる",
+    "english": "noon, daytime",
+    "meanings": [
+      "noon",
+      "daytime"
+    ]
+  },
+  {
+    "id": "vocab-n5-014",
+    "kanji": "夜",
+    "kana": "よる",
+    "english": "night",
+    "meanings": [
+      "night"
+    ]
+  },
+  {
+    "id": "vocab-n5-015",
+    "kanji": "今",
+    "kana": "いま",
+    "english": "now",
+    "meanings": [
+      "now"
+    ]
+  },
+  {
+    "id": "vocab-n5-016",
+    "kanji": "時間",
+    "kana": "じかん",
+    "english": "time, hour",
+    "meanings": [
+      "time",
+      "hour"
+    ]
+  },
+  {
+    "id": "vocab-n5-017",
+    "kanji": "一時",
+    "kana": "いちじ",
+    "english": "one o'clock",
+    "meanings": [
+      "one o'clock"
+    ]
+  },
+  {
+    "id": "vocab-n5-018",
+    "kanji": "月曜日",
+    "kana": "げつようび",
+    "english": "Monday",
+    "meanings": [
+      "Monday"
+    ]
+  },
+  {
+    "id": "vocab-n5-019",
+    "kanji": "火曜日",
+    "kana": "かようび",
+    "english": "Tuesday",
+    "meanings": [
+      "Tuesday"
+    ]
+  },
+  {
+    "id": "vocab-n5-020",
+    "kanji": "水曜日",
+    "kana": "すいようび",
+    "english": "Wednesday",
+    "meanings": [
+      "Wednesday"
+    ]
+  },
+  {
+    "id": "vocab-n5-021",
+    "kanji": "木曜日",
+    "kana": "もくようび",
+    "english": "Thursday",
+    "meanings": [
+      "Thursday"
+    ]
+  },
+  {
+    "id": "vocab-n5-022",
+    "kanji": "金曜日",
+    "kana": "きんようび",
+    "english": "Friday",
+    "meanings": [
+      "Friday"
+    ]
+  },
+  {
+    "id": "vocab-n5-023",
+    "kanji": "土曜日",
+    "kana": "どようび",
+    "english": "Saturday",
+    "meanings": [
+      "Saturday"
+    ]
+  },
+  {
+    "id": "vocab-n5-024",
+    "kanji": "日曜日",
+    "kana": "にちようび",
+    "english": "Sunday",
+    "meanings": [
+      "Sunday"
+    ]
+  },
+  {
+    "id": "vocab-n5-025",
+    "kanji": "春",
+    "kana": "はる",
+    "english": "spring",
+    "meanings": [
+      "spring"
+    ]
+  },
+  {
+    "id": "vocab-n5-026",
+    "kanji": "秋",
+    "kana": "あき",
+    "english": "autumn",
+    "meanings": [
+      "autumn"
+    ]
+  },
+  {
+    "id": "vocab-n5-027",
+    "kanji": "冬",
+    "kana": "ふゆ",
+    "english": "winter",
+    "meanings": [
+      "winter"
+    ]
+  },
+  {
+    "id": "vocab-n5-028",
+    "kanji": "天気",
+    "kana": "てんき",
+    "english": "weather",
+    "meanings": [
+      "weather"
+    ]
+  },
+  {
+    "id": "vocab-n5-029",
+    "kanji": "雨",
+    "kana": "あめ",
+    "english": "rain",
+    "meanings": [
+      "rain"
+    ]
+  },
+  {
+    "id": "vocab-n5-030",
+    "kanji": "雪",
+    "kana": "ゆき",
+    "english": "snow",
+    "meanings": [
+      "snow"
+    ]
+  },
+  {
+    "id": "vocab-n5-031",
+    "kanji": "風",
+    "kana": "かぜ",
+    "english": "wind",
+    "meanings": [
+      "wind"
+    ]
+  },
+  {
+    "id": "vocab-n5-032",
+    "kanji": "暑い",
+    "kana": "あつい",
+    "english": "hot weather",
+    "meanings": [
+      "hot weather"
+    ]
+  },
+  {
+    "id": "vocab-n5-033",
+    "kanji": "寒い",
+    "kana": "さむい",
+    "english": "cold weather",
+    "meanings": [
+      "cold weather"
+    ]
+  },
+  {
+    "id": "vocab-n5-034",
+    "kanji": "暖かい",
+    "kana": "あたたかい",
+    "english": "warm",
+    "meanings": [
+      "warm"
+    ]
+  },
+  {
+    "id": "vocab-n5-035",
+    "kanji": "涼しい",
+    "kana": "すずしい",
+    "english": "cool",
+    "meanings": [
+      "cool"
+    ]
+  },
+  {
+    "id": "vocab-n5-036",
+    "kanji": "大きい",
+    "kana": "おおきい",
+    "english": "big",
+    "meanings": [
+      "big"
+    ]
+  },
+  {
+    "id": "vocab-n5-037",
+    "kanji": "小さい",
+    "kana": "ちいさい",
+    "english": "small",
+    "meanings": [
+      "small"
+    ]
+  },
+  {
+    "id": "vocab-n5-038",
+    "kanji": "新しい",
+    "kana": "あたらしい",
+    "english": "new",
+    "meanings": [
+      "new"
+    ]
+  },
+  {
+    "id": "vocab-n5-039",
+    "kanji": "古い",
+    "kana": "ふるい",
+    "english": "old",
+    "meanings": [
+      "old"
+    ]
+  },
+  {
+    "id": "vocab-n5-040",
+    "kanji": "高い",
+    "kana": "たかい",
+    "english": "high, expensive",
+    "meanings": [
+      "high",
+      "expensive"
+    ]
+  },
+  {
+    "id": "vocab-n5-041",
+    "kanji": "安い",
+    "kana": "やすい",
+    "english": "cheap",
+    "meanings": [
+      "cheap"
+    ]
+  },
+  {
+    "id": "vocab-n5-042",
+    "kanji": "長い",
+    "kana": "ながい",
+    "english": "long",
+    "meanings": [
+      "long"
+    ]
+  },
+  {
+    "id": "vocab-n5-043",
+    "kanji": "短い",
+    "kana": "みじかい",
+    "english": "short",
+    "meanings": [
+      "short"
+    ]
+  },
+  {
+    "id": "vocab-n5-044",
+    "kanji": "広い",
+    "kana": "ひろい",
+    "english": "wide, spacious",
+    "meanings": [
+      "wide",
+      "spacious"
+    ]
+  },
+  {
+    "id": "vocab-n5-045",
+    "kanji": "狭い",
+    "kana": "せまい",
+    "english": "narrow",
+    "meanings": [
+      "narrow"
+    ]
+  },
+  {
+    "id": "vocab-n5-046",
+    "kanji": "多い",
+    "kana": "おおい",
+    "english": "many",
+    "meanings": [
+      "many"
+    ]
+  },
+  {
+    "id": "vocab-n5-047",
+    "kanji": "少ない",
+    "kana": "すくない",
+    "english": "few",
+    "meanings": [
+      "few"
+    ]
+  },
+  {
+    "id": "vocab-n5-048",
+    "kanji": "良い",
+    "kana": "いい",
+    "english": "good",
+    "meanings": [
+      "good"
+    ]
+  },
+  {
+    "id": "vocab-n5-049",
+    "kanji": "悪い",
+    "kana": "わるい",
+    "english": "bad",
+    "meanings": [
+      "bad"
+    ]
+  },
+  {
+    "id": "vocab-n5-050",
+    "kanji": "おいしい",
+    "kana": "おいしい",
+    "english": "delicious",
+    "meanings": [
+      "delicious"
+    ]
+  },
+  {
+    "id": "vocab-n5-051",
+    "kanji": "まずい",
+    "kana": "まずい",
+    "english": "unpleasant tasting",
+    "meanings": [
+      "unpleasant tasting"
+    ]
+  },
+  {
+    "id": "vocab-n5-052",
+    "kanji": "楽しい",
+    "kana": "たのしい",
+    "english": "fun",
+    "meanings": [
+      "fun"
+    ]
+  },
+  {
+    "id": "vocab-n5-053",
+    "kanji": "難しい",
+    "kana": "むずかしい",
+    "english": "difficult",
+    "meanings": [
+      "difficult"
+    ]
+  },
+  {
+    "id": "vocab-n5-054",
+    "kanji": "易しい",
+    "kana": "やさしい",
+    "english": "easy",
+    "meanings": [
+      "easy"
+    ]
+  },
+  {
+    "id": "vocab-n5-055",
+    "kanji": "忙しい",
+    "kana": "いそがしい",
+    "english": "busy",
+    "meanings": [
+      "busy"
+    ]
+  },
+  {
+    "id": "vocab-n5-056",
+    "kanji": "暇",
+    "kana": "ひま",
+    "english": "free time",
+    "meanings": [
+      "free time"
+    ]
+  },
+  {
+    "id": "vocab-n5-057",
+    "kanji": "人",
+    "kana": "ひと",
+    "english": "person",
+    "meanings": [
+      "person"
+    ]
+  },
+  {
+    "id": "vocab-n5-058",
+    "kanji": "男の人",
+    "kana": "おとこのひと",
+    "english": "man",
+    "meanings": [
+      "man"
+    ]
+  },
+  {
+    "id": "vocab-n5-059",
+    "kanji": "女の人",
+    "kana": "おんなのひと",
+    "english": "woman",
+    "meanings": [
+      "woman"
+    ]
+  },
+  {
+    "id": "vocab-n5-060",
+    "kanji": "子供",
+    "kana": "こども",
+    "english": "child",
+    "meanings": [
+      "child"
+    ]
+  },
+  {
+    "id": "vocab-n5-061",
+    "kanji": "友達",
+    "kana": "ともだち",
+    "english": "friend",
+    "meanings": [
+      "friend"
+    ]
+  },
+  {
+    "id": "vocab-n5-062",
+    "kanji": "家族",
+    "kana": "かぞく",
+    "english": "family",
+    "meanings": [
+      "family"
+    ]
+  },
+  {
+    "id": "vocab-n5-063",
+    "kanji": "父",
+    "kana": "ちち",
+    "english": "my father",
+    "meanings": [
+      "my father"
+    ]
+  },
+  {
+    "id": "vocab-n5-064",
+    "kanji": "母",
+    "kana": "はは",
+    "english": "my mother",
+    "meanings": [
+      "my mother"
+    ]
+  },
+  {
+    "id": "vocab-n5-065",
+    "kanji": "お父さん",
+    "kana": "おとうさん",
+    "english": "father, dad",
+    "meanings": [
+      "father",
+      "dad"
+    ]
+  },
+  {
+    "id": "vocab-n5-066",
+    "kanji": "お母さん",
+    "kana": "おかあさん",
+    "english": "mother, mom",
+    "meanings": [
+      "mother",
+      "mom"
+    ]
+  },
+  {
+    "id": "vocab-n5-067",
+    "kanji": "兄",
+    "kana": "あに",
+    "english": "my older brother",
+    "meanings": [
+      "my older brother"
+    ]
+  },
+  {
+    "id": "vocab-n5-068",
+    "kanji": "姉",
+    "kana": "あね",
+    "english": "my older sister",
+    "meanings": [
+      "my older sister"
+    ]
+  },
+  {
+    "id": "vocab-n5-069",
+    "kanji": "弟",
+    "kana": "おとうと",
+    "english": "younger brother",
+    "meanings": [
+      "younger brother"
+    ]
+  },
+  {
+    "id": "vocab-n5-070",
+    "kanji": "妹",
+    "kana": "いもうと",
+    "english": "younger sister",
+    "meanings": [
+      "younger sister"
+    ]
+  },
+  {
+    "id": "vocab-n5-071",
+    "kanji": "先生",
+    "kana": "せんせい",
+    "english": "teacher",
+    "meanings": [
+      "teacher"
+    ]
+  },
+  {
+    "id": "vocab-n5-072",
+    "kanji": "学生",
+    "kana": "がくせい",
+    "english": "student",
+    "meanings": [
+      "student"
+    ]
+  },
+  {
+    "id": "vocab-n5-073",
+    "kanji": "大学生",
+    "kana": "だいがくせい",
+    "english": "university student",
+    "meanings": [
+      "university student"
+    ]
+  },
+  {
+    "id": "vocab-n5-074",
+    "kanji": "医者",
+    "kana": "いしゃ",
+    "english": "doctor",
+    "meanings": [
+      "doctor"
+    ]
+  },
+  {
+    "id": "vocab-n5-075",
+    "kanji": "会社員",
+    "kana": "かいしゃいん",
+    "english": "company employee",
+    "meanings": [
+      "company employee"
+    ]
+  },
+  {
+    "id": "vocab-n5-076",
+    "kanji": "名前",
+    "kana": "なまえ",
+    "english": "name",
+    "meanings": [
+      "name"
+    ]
+  },
+  {
+    "id": "vocab-n5-077",
+    "kanji": "日本",
+    "kana": "にほん",
+    "english": "Japan",
+    "meanings": [
+      "Japan"
+    ]
+  },
+  {
+    "id": "vocab-n5-078",
+    "kanji": "日本語",
+    "kana": "にほんご",
+    "english": "Japanese language",
+    "meanings": [
+      "Japanese language"
+    ]
+  },
+  {
+    "id": "vocab-n5-079",
+    "kanji": "英語",
+    "kana": "えいご",
+    "english": "English language",
+    "meanings": [
+      "English language"
+    ]
+  },
+  {
+    "id": "vocab-n5-080",
+    "kanji": "国",
+    "kana": "くに",
+    "english": "country",
+    "meanings": [
+      "country"
+    ]
+  },
+  {
+    "id": "vocab-n5-081",
+    "kanji": "町",
+    "kana": "まち",
+    "english": "town",
+    "meanings": [
+      "town"
+    ]
+  },
+  {
+    "id": "vocab-n5-082",
+    "kanji": "家",
+    "kana": "いえ",
+    "english": "house",
+    "meanings": [
+      "house"
+    ]
+  },
+  {
+    "id": "vocab-n5-083",
+    "kanji": "部屋",
+    "kana": "へや",
+    "english": "room",
+    "meanings": [
+      "room"
+    ]
+  },
+  {
+    "id": "vocab-n5-084",
+    "kanji": "学校",
+    "kana": "がっこう",
+    "english": "school",
+    "meanings": [
+      "school"
+    ]
+  },
+  {
+    "id": "vocab-n5-085",
+    "kanji": "大学",
+    "kana": "だいがく",
+    "english": "university",
+    "meanings": [
+      "university"
+    ]
+  },
+  {
+    "id": "vocab-n5-086",
+    "kanji": "会社",
+    "kana": "かいしゃ",
+    "english": "company",
+    "meanings": [
+      "company"
+    ]
+  },
+  {
+    "id": "vocab-n5-087",
+    "kanji": "駅",
+    "kana": "えき",
+    "english": "station",
+    "meanings": [
+      "station"
+    ]
+  },
+  {
+    "id": "vocab-n5-088",
+    "kanji": "電車",
+    "kana": "でんしゃ",
+    "english": "train",
+    "meanings": [
+      "train"
+    ]
+  },
+  {
+    "id": "vocab-n5-089",
+    "kanji": "車",
+    "kana": "くるま",
+    "english": "car",
+    "meanings": [
+      "car"
+    ]
+  },
+  {
+    "id": "vocab-n5-090",
+    "kanji": "自転車",
+    "kana": "じてんしゃ",
+    "english": "bicycle",
+    "meanings": [
+      "bicycle"
+    ]
+  },
+  {
+    "id": "vocab-n5-091",
+    "kanji": "飛行機",
+    "kana": "ひこうき",
+    "english": "airplane",
+    "meanings": [
+      "airplane"
+    ]
+  },
+  {
+    "id": "vocab-n5-092",
+    "kanji": "バス",
+    "kana": "バス",
+    "english": "bus",
+    "meanings": [
+      "bus"
+    ]
+  },
+  {
+    "id": "vocab-n5-093",
+    "kanji": "道",
+    "kana": "みち",
+    "english": "road",
+    "meanings": [
+      "road"
+    ]
+  },
+  {
+    "id": "vocab-n5-094",
+    "kanji": "右",
+    "kana": "みぎ",
+    "english": "right",
+    "meanings": [
+      "right"
+    ]
+  },
+  {
+    "id": "vocab-n5-095",
+    "kanji": "左",
+    "kana": "ひだり",
+    "english": "left",
+    "meanings": [
+      "left"
+    ]
+  },
+  {
+    "id": "vocab-n5-096",
+    "kanji": "上",
+    "kana": "うえ",
+    "english": "above",
+    "meanings": [
+      "above"
+    ]
+  },
+  {
+    "id": "vocab-n5-097",
+    "kanji": "下",
+    "kana": "した",
+    "english": "below",
+    "meanings": [
+      "below"
+    ]
+  },
+  {
+    "id": "vocab-n5-098",
+    "kanji": "中",
+    "kana": "なか",
+    "english": "inside, middle",
+    "meanings": [
+      "inside",
+      "middle"
+    ]
+  },
+  {
+    "id": "vocab-n5-099",
+    "kanji": "外",
+    "kana": "そと",
+    "english": "outside",
+    "meanings": [
+      "outside"
+    ]
+  },
+  {
+    "id": "vocab-n5-100",
+    "kanji": "前",
+    "kana": "まえ",
+    "english": "front, before",
+    "meanings": [
+      "front",
+      "before"
+    ]
+  },
+  {
+    "id": "vocab-n5-101",
+    "kanji": "後ろ",
+    "kana": "うしろ",
+    "english": "behind",
+    "meanings": [
+      "behind"
+    ]
+  },
+  {
+    "id": "vocab-n5-102",
+    "kanji": "隣",
+    "kana": "となり",
+    "english": "next to",
+    "meanings": [
+      "next to"
+    ]
+  },
+  {
+    "id": "vocab-n5-103",
+    "kanji": "近く",
+    "kana": "ちかく",
+    "english": "nearby",
+    "meanings": [
+      "nearby"
+    ]
+  },
+  {
+    "id": "vocab-n5-104",
+    "kanji": "遠く",
+    "kana": "とおく",
+    "english": "far away",
+    "meanings": [
+      "far away"
+    ]
+  },
+  {
+    "id": "vocab-n5-105",
+    "kanji": "本",
+    "kana": "ほん",
+    "english": "book",
+    "meanings": [
+      "book"
+    ]
+  },
+  {
+    "id": "vocab-n5-106",
+    "kanji": "新聞",
+    "kana": "しんぶん",
+    "english": "newspaper",
+    "meanings": [
+      "newspaper"
+    ]
+  },
+  {
+    "id": "vocab-n5-107",
+    "kanji": "雑誌",
+    "kana": "ざっし",
+    "english": "magazine",
+    "meanings": [
+      "magazine"
+    ]
+  },
+  {
+    "id": "vocab-n5-108",
+    "kanji": "手紙",
+    "kana": "てがみ",
+    "english": "letter",
+    "meanings": [
+      "letter"
+    ]
+  },
+  {
+    "id": "vocab-n5-109",
+    "kanji": "電話",
+    "kana": "でんわ",
+    "english": "telephone",
+    "meanings": [
+      "telephone"
+    ]
+  },
+  {
+    "id": "vocab-n5-110",
+    "kanji": "時計",
+    "kana": "とけい",
+    "english": "clock, watch",
+    "meanings": [
+      "clock",
+      "watch"
+    ]
+  },
+  {
+    "id": "vocab-n5-111",
+    "kanji": "写真",
+    "kana": "しゃしん",
+    "english": "photograph",
+    "meanings": [
+      "photograph"
+    ]
+  },
+  {
+    "id": "vocab-n5-112",
+    "kanji": "机",
+    "kana": "つくえ",
+    "english": "desk",
+    "meanings": [
+      "desk"
+    ]
+  },
+  {
+    "id": "vocab-n5-113",
+    "kanji": "椅子",
+    "kana": "いす",
+    "english": "chair",
+    "meanings": [
+      "chair"
+    ]
+  },
+  {
+    "id": "vocab-n5-114",
+    "kanji": "窓",
+    "kana": "まど",
+    "english": "window",
+    "meanings": [
+      "window"
+    ]
+  },
+  {
+    "id": "vocab-n5-115",
+    "kanji": "ドア",
+    "kana": "ドア",
+    "english": "door",
+    "meanings": [
+      "door"
+    ]
+  },
+  {
+    "id": "vocab-n5-116",
+    "kanji": "鍵",
+    "kana": "かぎ",
+    "english": "key",
+    "meanings": [
+      "key"
+    ]
+  },
+  {
+    "id": "vocab-n5-117",
+    "kanji": "靴",
+    "kana": "くつ",
+    "english": "shoes",
+    "meanings": [
+      "shoes"
+    ]
+  },
+  {
+    "id": "vocab-n5-118",
+    "kanji": "服",
+    "kana": "ふく",
+    "english": "clothes",
+    "meanings": [
+      "clothes"
+    ]
+  },
+  {
+    "id": "vocab-n5-119",
+    "kanji": "帽子",
+    "kana": "ぼうし",
+    "english": "hat",
+    "meanings": [
+      "hat"
+    ]
+  },
+  {
+    "id": "vocab-n5-120",
+    "kanji": "傘",
+    "kana": "かさ",
+    "english": "umbrella",
+    "meanings": [
+      "umbrella"
+    ]
+  },
+  {
+    "id": "vocab-n5-121",
+    "kanji": "鞄",
+    "kana": "かばん",
+    "english": "bag",
+    "meanings": [
+      "bag"
+    ]
+  },
+  {
+    "id": "vocab-n5-122",
+    "kanji": "財布",
+    "kana": "さいふ",
+    "english": "wallet",
+    "meanings": [
+      "wallet"
+    ]
+  },
+  {
+    "id": "vocab-n5-123",
+    "kanji": "お金",
+    "kana": "おかね",
+    "english": "money",
+    "meanings": [
+      "money"
+    ]
+  },
+  {
+    "id": "vocab-n5-124",
+    "kanji": "水",
+    "kana": "みず",
+    "english": "water",
+    "meanings": [
+      "water"
+    ]
+  },
+  {
+    "id": "vocab-n5-125",
+    "kanji": "お茶",
+    "kana": "おちゃ",
+    "english": "tea",
+    "meanings": [
+      "tea"
+    ]
+  },
+  {
+    "id": "vocab-n5-126",
+    "kanji": "牛乳",
+    "kana": "ぎゅうにゅう",
+    "english": "milk",
+    "meanings": [
+      "milk"
+    ]
+  },
+  {
+    "id": "vocab-n5-127",
+    "kanji": "ご飯",
+    "kana": "ごはん",
+    "english": "rice, meal",
+    "meanings": [
+      "rice",
+      "meal"
+    ]
+  },
+  {
+    "id": "vocab-n5-128",
+    "kanji": "パン",
+    "kana": "パン",
+    "english": "bread",
+    "meanings": [
+      "bread"
+    ]
+  },
+  {
+    "id": "vocab-n5-129",
+    "kanji": "肉",
+    "kana": "にく",
+    "english": "meat",
+    "meanings": [
+      "meat"
+    ]
+  },
+  {
+    "id": "vocab-n5-130",
+    "kanji": "魚",
+    "kana": "さかな",
+    "english": "fish",
+    "meanings": [
+      "fish"
+    ]
+  },
+  {
+    "id": "vocab-n5-131",
+    "kanji": "野菜",
+    "kana": "やさい",
+    "english": "vegetables",
+    "meanings": [
+      "vegetables"
+    ]
+  },
+  {
+    "id": "vocab-n5-132",
+    "kanji": "果物",
+    "kana": "くだもの",
+    "english": "fruit",
+    "meanings": [
+      "fruit"
+    ]
+  },
+  {
+    "id": "vocab-n5-133",
+    "kanji": "卵",
+    "kana": "たまご",
+    "english": "egg",
+    "meanings": [
+      "egg"
+    ]
+  },
+  {
+    "id": "vocab-n5-134",
+    "kanji": "砂糖",
+    "kana": "さとう",
+    "english": "sugar",
+    "meanings": [
+      "sugar"
+    ]
+  },
+  {
+    "id": "vocab-n5-135",
+    "kanji": "塩",
+    "kana": "しお",
+    "english": "salt",
+    "meanings": [
+      "salt"
+    ]
+  },
+  {
+    "id": "vocab-n5-136",
+    "kanji": "朝ご飯",
+    "kana": "あさごはん",
+    "english": "breakfast",
+    "meanings": [
+      "breakfast"
+    ]
+  },
+  {
+    "id": "vocab-n5-137",
+    "kanji": "昼ご飯",
+    "kana": "ひるごはん",
+    "english": "lunch",
+    "meanings": [
+      "lunch"
+    ]
+  },
+  {
+    "id": "vocab-n5-138",
+    "kanji": "晩ご飯",
+    "kana": "ばんごはん",
+    "english": "dinner",
+    "meanings": [
+      "dinner"
+    ]
+  },
+  {
+    "id": "vocab-n5-139",
+    "kanji": "食べる",
+    "kana": "たべる",
+    "english": "to eat",
+    "meanings": [
+      "to eat"
+    ]
+  },
+  {
+    "id": "vocab-n5-140",
+    "kanji": "飲む",
+    "kana": "のむ",
+    "english": "to drink",
+    "meanings": [
+      "to drink"
+    ]
+  },
+  {
+    "id": "vocab-n5-141",
+    "kanji": "見る",
+    "kana": "みる",
+    "english": "to see, to watch",
+    "meanings": [
+      "to see",
+      "to watch"
+    ]
+  },
+  {
+    "id": "vocab-n5-142",
+    "kanji": "聞く",
+    "kana": "きく",
+    "english": "to listen, to ask",
+    "meanings": [
+      "to listen",
+      "to ask"
+    ]
+  },
+  {
+    "id": "vocab-n5-143",
+    "kanji": "読む",
+    "kana": "よむ",
+    "english": "to read",
+    "meanings": [
+      "to read"
+    ]
+  },
+  {
+    "id": "vocab-n5-144",
+    "kanji": "書く",
+    "kana": "かく",
+    "english": "to write",
+    "meanings": [
+      "to write"
+    ]
+  },
+  {
+    "id": "vocab-n5-145",
+    "kanji": "話す",
+    "kana": "はなす",
+    "english": "to speak",
+    "meanings": [
+      "to speak"
+    ]
+  },
+  {
+    "id": "vocab-n5-146",
+    "kanji": "言う",
+    "kana": "いう",
+    "english": "to say",
+    "meanings": [
+      "to say"
+    ]
+  },
+  {
+    "id": "vocab-n5-147",
+    "kanji": "行く",
+    "kana": "いく",
+    "english": "to go",
+    "meanings": [
+      "to go"
+    ]
+  },
+  {
+    "id": "vocab-n5-148",
+    "kanji": "来る",
+    "kana": "くる",
+    "english": "to come",
+    "meanings": [
+      "to come"
+    ]
+  },
+  {
+    "id": "vocab-n5-149",
+    "kanji": "帰る",
+    "kana": "かえる",
+    "english": "to return home",
+    "meanings": [
+      "to return home"
+    ]
+  },
+  {
+    "id": "vocab-n5-150",
+    "kanji": "入る",
+    "kana": "はいる",
+    "english": "to enter",
+    "meanings": [
+      "to enter"
+    ]
+  },
+  {
+    "id": "vocab-n5-151",
+    "kanji": "出る",
+    "kana": "でる",
+    "english": "to leave",
+    "meanings": [
+      "to leave"
+    ]
+  },
+  {
+    "id": "vocab-n5-152",
+    "kanji": "起きる",
+    "kana": "おきる",
+    "english": "to wake up",
+    "meanings": [
+      "to wake up"
+    ]
+  },
+  {
+    "id": "vocab-n5-153",
+    "kanji": "寝る",
+    "kana": "ねる",
+    "english": "to sleep",
+    "meanings": [
+      "to sleep"
+    ]
+  },
+  {
+    "id": "vocab-n5-154",
+    "kanji": "働く",
+    "kana": "はたらく",
+    "english": "to work",
+    "meanings": [
+      "to work"
+    ]
+  },
+  {
+    "id": "vocab-n5-155",
+    "kanji": "休む",
+    "kana": "やすむ",
+    "english": "to rest",
+    "meanings": [
+      "to rest"
+    ]
+  },
+  {
+    "id": "vocab-n5-156",
+    "kanji": "買う",
+    "kana": "かう",
+    "english": "to buy",
+    "meanings": [
+      "to buy"
+    ]
+  },
+  {
+    "id": "vocab-n5-157",
+    "kanji": "売る",
+    "kana": "うる",
+    "english": "to sell",
+    "meanings": [
+      "to sell"
+    ]
+  },
+  {
+    "id": "vocab-n5-158",
+    "kanji": "会う",
+    "kana": "あう",
+    "english": "to meet",
+    "meanings": [
+      "to meet"
+    ]
+  },
+  {
+    "id": "vocab-n5-159",
+    "kanji": "待つ",
+    "kana": "まつ",
+    "english": "to wait",
+    "meanings": [
+      "to wait"
+    ]
+  },
+  {
+    "id": "vocab-n5-160",
+    "kanji": "立つ",
+    "kana": "たつ",
+    "english": "to stand",
+    "meanings": [
+      "to stand"
+    ]
+  },
+  {
+    "id": "vocab-n5-161",
+    "kanji": "座る",
+    "kana": "すわる",
+    "english": "to sit",
+    "meanings": [
+      "to sit"
+    ]
+  },
+  {
+    "id": "vocab-n5-162",
+    "kanji": "歩く",
+    "kana": "あるく",
+    "english": "to walk",
+    "meanings": [
+      "to walk"
+    ]
+  },
+  {
+    "id": "vocab-n5-163",
+    "kanji": "走る",
+    "kana": "はしる",
+    "english": "to run",
+    "meanings": [
+      "to run"
+    ]
+  },
+  {
+    "id": "vocab-n5-164",
+    "kanji": "泳ぐ",
+    "kana": "およぐ",
+    "english": "to swim",
+    "meanings": [
+      "to swim"
+    ]
+  },
+  {
+    "id": "vocab-n5-165",
+    "kanji": "遊ぶ",
+    "kana": "あそぶ",
+    "english": "to play",
+    "meanings": [
+      "to play"
+    ]
+  },
+  {
+    "id": "vocab-n5-166",
+    "kanji": "勉強する",
+    "kana": "べんきょうする",
+    "english": "to study",
+    "meanings": [
+      "to study"
+    ]
+  },
+  {
+    "id": "vocab-n5-167",
+    "kanji": "料理する",
+    "kana": "りょうりする",
+    "english": "to cook",
+    "meanings": [
+      "to cook"
+    ]
+  },
+  {
+    "id": "vocab-n5-168",
+    "kanji": "掃除する",
+    "kana": "そうじする",
+    "english": "to clean",
+    "meanings": [
+      "to clean"
+    ]
+  },
+  {
+    "id": "vocab-n5-169",
+    "kanji": "洗う",
+    "kana": "あらう",
+    "english": "to wash",
+    "meanings": [
+      "to wash"
+    ]
+  },
+  {
+    "id": "vocab-n5-170",
+    "kanji": "開ける",
+    "kana": "あける",
+    "english": "to open",
+    "meanings": [
+      "to open"
+    ]
+  },
+  {
+    "id": "vocab-n5-171",
+    "kanji": "閉める",
+    "kana": "しめる",
+    "english": "to close",
+    "meanings": [
+      "to close"
+    ]
+  },
+  {
+    "id": "vocab-n5-172",
+    "kanji": "教える",
+    "kana": "おしえる",
+    "english": "to teach, to tell",
+    "meanings": [
+      "to teach",
+      "to tell"
+    ]
+  },
+  {
+    "id": "vocab-n5-173",
+    "kanji": "習う",
+    "kana": "ならう",
+    "english": "to learn",
+    "meanings": [
+      "to learn"
+    ]
+  },
+  {
+    "id": "vocab-n5-174",
+    "kanji": "分かる",
+    "kana": "わかる",
+    "english": "to understand",
+    "meanings": [
+      "to understand"
+    ]
+  },
+  {
+    "id": "vocab-n5-175",
+    "kanji": "知る",
+    "kana": "しる",
+    "english": "to know",
+    "meanings": [
+      "to know"
+    ]
+  },
+  {
+    "id": "vocab-n5-176",
+    "kanji": "好き",
+    "kana": "すき",
+    "english": "liked, favorite",
+    "meanings": [
+      "liked",
+      "favorite"
+    ]
+  },
+  {
+    "id": "vocab-n5-177",
+    "kanji": "嫌い",
+    "kana": "きらい",
+    "english": "disliked",
+    "meanings": [
+      "disliked"
+    ]
+  },
+  {
+    "id": "vocab-n5-178",
+    "kanji": "欲しい",
+    "kana": "ほしい",
+    "english": "wanted",
+    "meanings": [
+      "wanted"
+    ]
+  },
+  {
+    "id": "vocab-n5-179",
+    "kanji": "ある",
+    "kana": "ある",
+    "english": "to exist (inanimate)",
+    "meanings": [
+      "to exist (inanimate)"
+    ]
+  },
+  {
+    "id": "vocab-n5-180",
+    "kanji": "いる",
+    "kana": "いる",
+    "english": "to exist (animate)",
+    "meanings": [
+      "to exist (animate)"
+    ]
+  },
+  {
+    "id": "vocab-n5-181",
+    "kanji": "できる",
+    "kana": "できる",
+    "english": "to be able to",
+    "meanings": [
+      "to be able to"
+    ]
+  },
+  {
+    "id": "vocab-n5-182",
+    "kanji": "する",
+    "kana": "する",
+    "english": "to do",
+    "meanings": [
+      "to do"
+    ]
+  },
+  {
+    "id": "vocab-n5-183",
+    "kanji": "とても",
+    "kana": "とても",
+    "english": "very",
+    "meanings": [
+      "very"
+    ]
+  },
+  {
+    "id": "vocab-n5-184",
+    "kanji": "少し",
+    "kana": "すこし",
+    "english": "a little",
+    "meanings": [
+      "a little"
+    ]
+  },
+  {
+    "id": "vocab-n5-185",
+    "kanji": "たくさん",
+    "kana": "たくさん",
+    "english": "a lot",
+    "meanings": [
+      "a lot"
+    ]
+  },
+  {
+    "id": "vocab-n5-186",
+    "kanji": "いつも",
+    "kana": "いつも",
+    "english": "always",
+    "meanings": [
+      "always"
+    ]
+  },
+  {
+    "id": "vocab-n5-187",
+    "kanji": "時々",
+    "kana": "ときどき",
+    "english": "sometimes",
+    "meanings": [
+      "sometimes"
+    ]
+  },
+  {
+    "id": "vocab-n5-188",
+    "kanji": "よく",
+    "kana": "よく",
+    "english": "often, well",
+    "meanings": [
+      "often",
+      "well"
+    ]
+  },
+  {
+    "id": "vocab-n5-189",
+    "kanji": "もう",
+    "kana": "もう",
+    "english": "already, again",
+    "meanings": [
+      "already",
+      "again"
+    ]
+  },
+  {
+    "id": "vocab-n5-190",
+    "kanji": "まだ",
+    "kana": "まだ",
+    "english": "not yet, still",
+    "meanings": [
+      "not yet",
+      "still"
+    ]
+  },
+  {
+    "id": "vocab-n5-191",
+    "kanji": "すぐ",
+    "kana": "すぐ",
+    "english": "immediately",
+    "meanings": [
+      "immediately"
+    ]
+  },
+  {
+    "id": "vocab-n5-192",
+    "kanji": "一緒に",
+    "kana": "いっしょに",
+    "english": "together",
+    "meanings": [
+      "together"
+    ]
+  },
+  {
+    "id": "vocab-n5-193",
+    "kanji": "どうして",
+    "kana": "どうして",
+    "english": "why",
+    "meanings": [
+      "why"
+    ]
+  },
+  {
+    "id": "vocab-n5-194",
+    "kanji": "どこ",
+    "kana": "どこ",
+    "english": "where",
+    "meanings": [
+      "where"
+    ]
+  },
+  {
+    "id": "vocab-n5-195",
+    "kanji": "いつ",
+    "kana": "いつ",
+    "english": "when",
+    "meanings": [
+      "when"
+    ]
+  },
+  {
+    "id": "vocab-n5-196",
+    "kanji": "何",
+    "kana": "なに",
+    "english": "what",
+    "meanings": [
+      "what"
+    ]
+  },
+  {
+    "id": "vocab-n5-197",
+    "kanji": "誰",
+    "kana": "だれ",
+    "english": "who",
+    "meanings": [
+      "who"
+    ]
+  },
+  {
+    "id": "vocab-n5-198",
+    "kanji": "どれ",
+    "kana": "どれ",
+    "english": "which one",
+    "meanings": [
+      "which one"
+    ]
+  },
+  {
+    "id": "vocab-n5-199",
+    "kanji": "これ",
+    "kana": "これ",
+    "english": "this",
+    "meanings": [
+      "this"
+    ]
+  },
+  {
+    "id": "vocab-n5-200",
+    "kanji": "それ",
+    "kana": "それ",
+    "english": "that",
+    "meanings": [
+      "that"
+    ]
+  },
+  {
+    "id": "vocab-n5-201",
+    "kanji": "あれ",
+    "kana": "あれ",
+    "english": "that over there",
+    "meanings": [
+      "that over there"
+    ]
+  },
+  {
+    "id": "vocab-n5-202",
+    "kanji": "ここ",
+    "kana": "ここ",
+    "english": "here",
+    "meanings": [
+      "here"
+    ]
+  },
+  {
+    "id": "vocab-n5-203",
+    "kanji": "そこ",
+    "kana": "そこ",
+    "english": "there",
+    "meanings": [
+      "there"
+    ]
+  },
+  {
+    "id": "vocab-n5-204",
+    "kanji": "あそこ",
+    "kana": "あそこ",
+    "english": "over there",
+    "meanings": [
+      "over there"
+    ]
+  },
+  {
+    "id": "vocab-n5-205",
+    "kanji": "ありがとう",
+    "kana": "ありがとう",
+    "english": "thank you",
+    "meanings": [
+      "thank you"
+    ]
+  },
+  {
+    "id": "vocab-n5-206",
+    "kanji": "すみません",
+    "kana": "すみません",
+    "english": "excuse me, sorry",
+    "meanings": [
+      "excuse me",
+      "sorry"
+    ]
+  },
+  {
+    "id": "vocab-n5-207",
+    "kanji": "お願いします",
+    "kana": "おねがいします",
+    "english": "please",
+    "meanings": [
+      "please"
+    ]
+  }
+]
